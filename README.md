@@ -1,18 +1,8 @@
-
 # Jsoup Crawler
 
 A list of websites to be crawled
-
-
-
-
-
-
-
-
 ## JKBOSE Results Page
-
-To deploy this project run
+http://jkbose.nic.in/results/
 
 ```java
   public static void main(String[] args) throws IOException {
