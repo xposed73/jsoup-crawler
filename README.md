@@ -1,6 +1,4 @@
-# Jsoup Crawler
 
-A list of websites to be crawled
 ## JKBOSE Results Page
 http://jkbose.nic.in/results/
 
@@ -29,4 +27,3 @@ http://jkbose.nic.in/results/
     
 }
 ```
-
