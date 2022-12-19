@@ -84,6 +84,40 @@ public class JavaApplication1 {
 }
 ```
 
+https://www.kashmiruniversity.net/notifications.aspx
+
+
+```java
+
+public class JavaApplication1 {
+
+   
+    public static void main(String[] args) throws IOException {
+         
+            Document doc = Jsoup.connect("https://www.kashmiruniversity.net/notifications.aspx").get();
+            Element ul = doc.getElementById("lstNewsAndAnnouncements");
+            
+            @SuppressWarnings("null")
+            Elements li = ul.select("a");
+            
+            for (Element e : li) {
+                
+                String name = e.text();
+                String url = e.absUrl("href");    
+          
+                
+                if (name!=null || url!=null && ! name.equals("") || !name.equals("http://jkpsc.nic.in/")){
+                    System.out.print("\n\nNAME: " + name + "\nURL: " + url); 
+                }
+            }
+            
+    }
+    
+}
+
+```
+
+
 ## Demo
 
 ![Demo](https://raw.githubusercontent.com/xposed73/jsoup-crawler/main/src/demo.png)
