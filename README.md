@@ -52,6 +52,34 @@ public static void main(String[] args) throws IOException {
     }
 
 ```
+```java
+
+http://jkpsc.nic.in/
+
+public class JavaApplication1 {
+
+   
+    public static void main(String[] args) throws IOException {
+         
+            Document doc = Jsoup.connect("http://jkpsc.nic.in/").get();
+            Element ul = doc.getElementById("whatsNew");
+            Elements li = ul.select("a");
+            
+            for (Element e : li) {
+                
+                String name = e.text();
+                String url = e.absUrl("href");    
+          
+                
+                if (name!=null || url!=null && ! name.equals("") || !name.equals("http://jkpsc.nic.in/")){
+                    System.out.print("\n\nNAME: " + name + "\nURL: " + url); 
+                }
+            }
+            
+    }
+    
+}
+```
 
 ## Demo
 
