@@ -96,8 +96,6 @@ public class JavaApplication1 {
          
             Document doc = Jsoup.connect("https://www.kashmiruniversity.net/notifications.aspx").get();
             Element ul = doc.getElementById("lstNewsAndAnnouncements");
-            
-            @SuppressWarnings("null")
             Elements li = ul.select("a");
             
             for (Element e : li) {
@@ -105,8 +103,7 @@ public class JavaApplication1 {
                 String name = e.text();
                 String url = e.absUrl("href");    
           
-                
-                if (name!=null || url!=null && ! name.equals("") || !name.equals("http://jkpsc.nic.in/")){
+                if (name!=null || url!=null){
                     System.out.print("\n\nNAME: " + name + "\nURL: " + url); 
                 }
             }
