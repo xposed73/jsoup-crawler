@@ -74,9 +74,14 @@ public class JavaApplication1 {
                 String url = e.absUrl("href");    
           
                 
-                if (name!=null || url!=null && ! name.equals("") || !name.equals("http://jkpsc.nic.in/")){
+                if (!url.equals("http://jkpsc.nic.in/") && !name.isEmpty()){
                     System.out.print("\n\nNAME: " + name + "\nURL: " + url); 
                 }
+                
+//                if (name!=null || url!=null && ! name.equals("") || !name.equals("http://jkpsc.nic.in/")){
+//                    System.out.print("\n\nNAME: " + name + "\nURL: " + url); 
+//                }
+                
             }
             
     }
