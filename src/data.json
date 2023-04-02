@@ -1,1322 +1,404 @@
 {
   "q": [
-  {
-    "question": "The sun in the early morning appears to be red. This is due to",
-    "options": [
-      "Total refraction ",
-      "Internal dispersion",
-      "Scattering of light ",
-      "Total reflection"
-    ],
-    "answer":3
-},
-
-{
-    "question": "The side view mirror in a car is a",
-    "options": [
-      "Concave mirror ",
-      "Convex mirror",
-      "Plain mirror ",
-      "Convex lens"
-    ],
-    "answer":2
-},
-
-{
-    "question": "Which of the following is not a chemical change?",
-    "options": [
-      "Souring of milk",
-      "Charring of sugar",
-      "Sublimation of iodine crystals",
-      "Rusting of iron"
-    ],
-    "answer":3
-},
-
-{
-    "question": "Evaporation of water from plants is known as:",
-    "options": [
-      "Dehydration ",
-      "Sublimation",
-      "Transpiration ",
-      "Vaporisation"
-    ],
-    "answer":3
-},
-
-{
-    "question": "The acid present in lemon",
-    "options": [
-      "Linoleic acid ",
-      "Hydrochloric acid",
-      "Citric acid ",
-      "Sulphuric acid"
-    ],
-    "answer":3
-},
-
-{
-    "question": "Build up of lactic acid in muscles causes",
-    "options": [
-      "Fever ",
-      "Swelling",
-      "Fainting ",
-      "Cramps"
-    ],
-    "answer":4
-},
-
-{
-    "question": "The purchase cost of 10 mobile phones is equal to the selling price of 8 mobile phones. The gain percentage is",
-    "options": [
-      "10% ",
-      "25% ",
-      "20% ",
-      "15%"
-    ],
-    "answer":2
-},
-
-{
-    "question": "In how many years will a sum of money double itself at 5% simple interest per annum?",
-    "options": [
-      "30 yrs. ",
-      "20 yrs. ",
-      "15 yrs. ",
-      "10 yrs."
-    ],
-    "answer":2
-},
-
-{
-    "question": "The sum of seven numbers is 265. The average of the first three numbers is 33 and the average of the last three is 42. The fourth number is",
-    "options": [
-      "36 ",
-      "38 ",
-      "39 ",
-      "40"
-    ],
-    "answer":4
-},
-
-{
-    "question": "Deepa ranks seventeenth in a class of thirty one. What is her rank from the last?",
-    "options": [
-      "15 ",
-      "14 ",
-      "13 ",
-      "16"
-    ],
-    "answer":1
-},
-
-{
-    "question": "Euro III norms relates to",
-    "options": [
-      "Mobile phones ",
-      "Standard of living",
-      "Electrical appliances ",
-      "Automobiles"
-    ],
-    "answer":4
-},
-
-{
-    "question": "The UN Summit on Climate Change 2009 was held in",
-    "options": [
-      "Rio de Janeiro ",
-      "Denmark",
-      "Copenhagen ",
-      "New York"
-    ],
-    "answer":3
-},
-
-{
-    "question": "The slogan ‘Jai Hind’ was coined by:",
-    "options": [
-      "Gopalakrishna Gokhale ",
-      "Subhash Chandra Bose",
-      "Jawaharlal Nehru ",
-      "Vallabhai Patel"
-    ],
-    "answer":2
-},
-
-{
-    "question": "When was the First Five Year Plan started?",
-    "options": [
-      "1<sup>st</sup> November 1950 ",
-      "2<sup>nd</sup> October 1950",
-      "26<sup>th</sup> January 1950 ",
-      "1<sup>st</sup> April 1951"
-    ],
-    "answer":4
-},
-
-{
-    "question": "Mahatma Gandhi propagated an educational system in India integrating hand, head and heart of a student. What was the name of the educational system?",
-    "options": [
-      "Tolstoy Farm ",
-      "Nai Talim",
-      "Swaraj ",
-      "Sarvodaya"
-    ],
-    "answer":2
-},
-
-{
-    "question": "The main focus for development of the Eleventh Five Year Plan of India",
-    "options": [
-      "Agriculture ",
-      "Strengthening the education sector",
-      "Empowerment of women ",
-      "Protection of the environment"
-    ],
-    "answer":2
-},
-
-{
-    "question": "‘Democratic Decentralisation of Powers’ is the key principle in:",
-    "options": [
-      "Panchayathi Raj",
-      "Co-operative Farming",
-      "Community Development Projects",
-      "Kudumbasree Project"
-    ],
-    "answer":1
-},
-
-{
-    "question": "The inner core of the Earth is",
-    "options": [
-      "A mixture of solids and liquid",
-      "Liquid",
-      "Gaseous",
-      "Solid"
-    ],
-    "answer":4
-},
-
-{
-    "question": "Of the four Vedas which is associated with music?",
-    "options": [
-      "Rig Veda ",
-      "Yajur Veda",
-      "Sama Veda ",
-      "Atharva Veda"
-    ],
-    "answer":3
-},
-
-{
-    "question": "Which of the following is a folk dance?",
-    "options": [
-      "Kuchipudi ",
-      "Bhangra",
-      "Kathak ",
-      "Krishnanattom"
-    ],
-    "answer":2
-},
-
-{
-    "question": "“Where women are worshiped the Gods shower their blessings, but where they are not honored, all acts are fruitless”. These verses are found in",
-    "options": [
-      "Bhagavat Gita ",
-      "Jayasamhita",
-      "Kenopanishad ",
-      "Manusmriti"
-    ],
-    "answer":4
-},
-
-{
-    "question": "The place in India where Sanskrit is the vernacular",
-    "options": [
-      "Uttarkashi in Uttaranchal ",
-      "Rampur in Utter Pradesh",
-      "Mathoor in Karnataka ",
-      "Kashi in Benares"
-    ],
-    "answer":3
-},
-
-{
-    "question": "Which of the following is not a novel of Dostoevsky?",
-    "options": [
-      "Crime and Punishment ",
-      "Anna Karenina",
-      "The Brothers Karamazov ",
-      "The Idiot"
-    ],
-    "answer":2
-},
-
-{
-    "question": "Which is the Kerala’s own famous classical temple dance–drama?",
-    "options": [
-      "Chakkiar Kooth ",
-      "Bharathanatyam",
-      "Kuchipudi ",
-      "Kathakali"
-    ],
-    "answer":4
-},
-
-{
-    "question": "The new invention ‘Bloom Box’ is a device for",
-    "options": [
-      "Treatment of cancer patients ",
-      "Controlling pollution",
-      "Producing electricity ",
-      "Increasing crop production"
-    ],
-    "answer":3
-},
-
-{
-    "question": "The inventor of PC who passed away in April 2010?",
-    "options": [
-      "Louis Edward ",
-      "Karl Rogers",
-      "Edward Roberts ",
-      "Karl Benson"
-    ],
-    "answer":3
-},
-
-{
-    "question": "Sandra Bullock won the Oscar Award 2010 for Best Actress for her performance in which of the following films?",
-    "options": [
-      "Julie and Julia ",
-      "The Hurt Locker",
-      "Crazy Heart ",
-      "The Blind Side"
-    ],
-    "answer":4
-},
-
-{
-    "question": "The Nobel Peace Prize 2009 was awarded to",
-    "options": [
-      "Barack Obama ",
-      "Muhammed Yunus",
-      "ElBaradei ",
-      "Ban Ki-moon"
-    ],
-    "answer":1
-},
-
-{
-    "question": "Tiger Woods is associated with",
-    "options": [
-      "Wrestling ",
-      "Golf",
-      "Football ",
-      "Billiards"
-    ],
-    "answer":2
-},
-
-{
-    "question": "The 2006 Physics Nobel Laureate who has attended the 97th Indian Science Congress held at Thiruvananthapuram is",
-    "options": [
-      "Dr.James Webb ",
-      "Dr.John C Mather",
-      "Dr.Lars Prahm ",
-      "Dr.Thomas Robert Cech"
-    ],
-    "answer":2
-},
-
-{
-    "question": "The name of the film which has got ‘Suvarna Chakoram’ at IFFK 2009 along with the film ‘Jermal’",
-    "options": [
-      "My Secret Sky ",
-      "Revisited",
-      "About Elly ",
-      "From a Whisper"
-    ],
-    "answer":3
-},
-
-{
-    "question": "Chairman of the Law Commission of India",
-    "options": [
-      "Justice Jagannathan ",
-      "Justice A.R.Lakshmanan",
-      "Justice P.V.Reddy ",
-      "Justice Anand"
-    ],
-    "answer":3
-},
-
-{
-    "question": "Who emerged as the fastest male athlete of the 53rd State School Games?",
-    "options": [
-      "Johnson ",
-      "Ravi Bhaskar",
-      "Prabha ",
-      "Sujit Kuttan"
-    ],
-    "answer":4
-},
-
-{
-    "question": "The Chief Justice of Kerala High Court is",
-    "options": [
-      "Justice K.G.Balakrishnan ",
-      "Justice J.Chelameswar",
-      "Justice C.N.Radhakrishnan ",
-      "Justice V.Giri"
-    ],
-    "answer":2
-},
-
-{
-    "question": "Union Minister for Human Resources Development",
-    "options": [
-      "Anand Sharma ",
-      "Kapil Sibal",
-      "Kamal Nath ",
-      "Gulam Nabi Azad"
-    ],
-    "answer":2
-},
-
-{
-    "question": "Which of the following Ministers is in charge of the Information Technology Department in Kerala?",
-    "options": [
-      "Thomas Issac ",
-      "M.A.Baby",
-      "V.S.Achuthanandan ",
-      "A.K.Balan"
-    ],
-    "answer":3
-},
-
-{
-    "question": "The words ‘Sathyameva Jayathe’ in the National Emblem of India is taken from",
-    "options": [
-      "Kenopanishad ",
-      "Mundakopanishad",
-      "Ramayana ",
-      "Bhagavat Gita"
-    ],
-    "answer":2
-},
-
-{
-    "question": "The Maharaja of Travancore who issued the Temple Entry Proclamation?",
-    "options": [
-      "Sree Moolam Thirunal ",
-      "Sree Chithira Thirunal",
-      "Swathi Thirunal ",
-      "Sree Visakom Thirunal"
-    ],
-    "answer":2
-},
-
-{
-    "question": "Which of the following is not an obstacle to cultural change?",
-    "options": [
-      "Vested interests ",
-      "Cultural lag",
-      "The degree of isolation ",
-      "Cultural inertia"
-    ],
-    "answer":2
-},
-
-{
-    "question": "Mamankam was celebrated for --------- days at Thirunavaya once in every 12 years",
-    "options": [
-      "11 ",
-      "12 ",
-      "14 ",
-      "28"
-    ],
-    "answer":4
-},
-
-{
-    "question": "A Polyandrous system means",
-    "options": [
-      "A man and a woman marry only once in their life",
-      "A man and a woman live together as husband and wife without being married as per law",
-      "A woman has more than one husband at a time",
-      "A man has more than one wife at a time"
-    ],
-    "answer":3
-},
-
-{
-    "question": "Secularism means",
-    "options": [
-      "Keeping away from all religions",
-      "Recognizing all religions",
-      "Not allowing to change the religion",
-      "Freedom of religion and worship to all"
-    ],
-    "answer":4
-},
-
-{
-    "question": "The primary function of management is",
-    "options": [
-      "Training ",
-      "Research ",
-      "Planning ",
-      "Banking"
-    ],
-    "answer":3
-},
-
-{
-    "question": "Choose the correct order of skills required for an effective manager",
-    "options": [
-      "Communication skill, Technical skill, Time management skill",
-      "Technical skill, Communication skill, Time management skill",
-      "Time management skill, Technical skill, Communication skill",
-      "Communication skill, Time management skill, Technical skill"
-    ],
-    "answer":4
-},
-
-{
-    "question": "DEMAT trading relates to",
-    "options": [
-      "Trading in foreign exchange ",
-      "Trading of shares",
-      "Import of goods ",
-      "Export of goods"
-    ],
-    "answer":2
-},
-
-{
-    "question": "Real Interest Rate means",
-    "options": [
-      "The interest rate fixed by the Commercial banks",
-      "The interest rate fixed by the RBI",
-      "Current interest rate less the rate of inflation",
-      "The actual rate of interest at the date of a transaction"
-    ],
-    "answer":3
-},
-
-{
-    "question": "Source, -----------, Receiver, Feedback are the important elements in a communication. Find out the missing element",
-    "options": [
-      "Medium ",
-      "Instrument ",
-      "Message ",
-      "Sender"
-    ],
-    "answer":3
-},
-
-{
-    "question": "Intrapersonal communication means",
-    "options": [
-      "Communication within a person",
-      "Communication between two persons",
-      "Communication of personal ideas",
-      "Communication above personal level"
-    ],
-    "answer":1
-},
-
-{
-    "question": "The Institution set up by the Government of India to provide computer based information services to government departments",
-    "options": [
-      "C-DIT ",
-      "CDAC ",
-      "NIC ",
-      "DOEACC"
-    ],
-    "answer":3
-},
-
-{
-    "question": "Information Communication Technology (ICT) involves primarily",
-    "options": [
-      "Enrichment of existing knowledge",
-      "Installation of equipments",
-      "Storage and communication of information",
-      "Use of technology for teaching"
-    ],
-    "answer":3
-},
-
-{
-    "question": "For use of ICT, teachers should be familiar with",
-    "options": [
-      "Programming ",
-      "Browsing",
-      "Planning ",
-      "Handling of audio-visual aids"
-    ],
-    "answer":2
-},
-
-{
-    "question": "Cloud computing means",
-    "options": [
-      "Computing using the satellite",
-      "Computing using cloud chamber technology",
-      "Computing which results in errors",
-      "Shifting computing power from offline PCs and Laptops onto the Web"
-    ],
-    "answer":4
-},
-
-{
-    "question": "URL is a term associated with",
-    "options": [
-      "Computer hardware ",
-      "Internet",
-      "Laser printer ",
-      "Fax"
-    ],
-    "answer":2
-},
-
-{
-    "question": "1 GB is equal to",
-    "options": [
-      "10000 KB ",
-      "1073741824 KB",
-      "1048576 KB ",
-      "100000 KB"
-    ],
-    "answer":3
-},
-
-{
-    "question": "Computer virus is",
-    "options": [
-      "A micro organism",
-      "A useful computer component",
-      "Electro magnetic waves entering the computer from internet",
-      "A programme 5"
-    ],
-    "answer":4
-},
-
-{
-    "question": "Rohith was asked to prepare a multimedia presentation as part of a seminar. Which of the following software can be made use of?",
-    "options": [
-      "Notepad ",
-      "Excel",
-      "Power Point ",
-      "Adobe Reader"
-    ],
-    "answer":3
-},
-
-{
-    "question": "In internet terminology IP means",
-    "options": [
-      "Internet Provider ",
-      "Internet Protocol",
-      "Internet Procedure ",
-      "Internet Processor"
-    ],
-    "answer":2
-},
-
-{
-    "question": "Which one of the following is not a search engine?",
-    "options": [
-      "Opera ",
-      "Google",
-      "Yahoo ",
-      "Windows"
-    ],
-    "answer":4
-},
-
-{
-    "question": "CLASS is the acronym for",
-    "options": [
-      "Computer, Language and School Studies",
-      "Computer, Literacy and Studies in Schools",
-      "Computer, Language and Secondary Schools",
-      "Computer, Learning and School Studies"
-    ],
-    "answer":2
-},
-
-{
-    "question": "SITE stands for",
-    "options": [
-      "Satellite Instructional Technology and Engineering",
-      "State Institute of Teacher Education",
-      "Satellite Instructional Television Experiment",
-      "State Institute of Technology and Engineering"
-    ],
-    "answer":3
-},
-
-{
-    "question": "Effective learning in a classroom takes place when",
-    "options": [
-      "Teacher explains the lesson and students listen to it",
-      "Students are asked to read the content loudly",
-      "Students ask questions and teacher helps them to find out the answer",
-      "Teacher sends the students to library and directs reading books"
-    ],
-    "answer":3
-},
-
-{
-    "question": "The project work prepared by a student will be educationally more effective when the teacher",
-    "options": [
-      "Always helps the student in locating the necessary information",
-      "Avoids giving help except in guiding to get correct information",
-      "Gives no help in preparing the report but suggests modifications after submission",
-      "Directs the student to know the purpose of the project and prepare the report"
-    ],
-    "answer":4
-},
-
-{
-    "question": "Of the four pillars of learning the most important one which develops the skill of learning to learn is",
-    "options": [
-      "Learning to know",
-      "Learning to do",
-      "Learning to live together",
-      "Learning to be"
-    ],
-    "answer":1
-},
-
-{
-    "question": "Which of the following is least concerned with describing the change in the role of teachers from transmitters of knowledge to transformers of knowledge and information",
-    "options": [
-      "Proper coordination between theory and practice",
-      "In-service programmes should be improved",
-      "No need to insist a code of ethics for teachers",
-      "Trained to teach disadvantaged groups"
-    ],
-    "answer":3
-},
-
-{
-    "question": "Participation of students in planning educational activities in classrooms would",
-    "options": [
-      "Limit teacher’s role",
-      "Put classroom action on a democratic basis",
-      "Make planning and execution a failure",
-      "Relieve the teacher of meticulous planning"
-    ],
-    "answer":2
-},
-
-{
-    "question": "The basic cause of teacher’s failure to maintain classroom discipline is the lack of",
-    "options": [
-      "Competence in teaching methods",
-      "A constructive programme of learning",
-      "Knowledge of the subject",
-      "Consistency in his approach to discipline"
-    ],
-    "answer":2
-},
-
-{
-    "question": "A student in a coeducation class misbehaved to a girl student. The classroom teacher should",
-    "options": [
-      "Send the boy out of the class and ask to bring his guardian",
-      "Arrange meetings of the staff-council to decide the intensity of punishment to be given to him",
-      "Ignore the misconduct",
-      "Find out the cause of misconduct and provide corrective measures for non-occurrence"
-    ],
-    "answer":4
-},
-
-{
-    "question": "If a student in the class is found to be disinterested it is better to",
-    "options": [
-      "Ignore him and proceed with the class",
-      "Scold him for not showing interest",
-      "Complain to the authority and parents",
-      "Talk to him to find the reasons and correct him"
-    ],
-    "answer":4
-},
-
-{
-    "question": "Teacher effectiveness depends on",
-    "options": [
-      "Subject mastery and teaching skills",
-      "Qualification and preparation of teacher",
-      "Classroom management and student evaluation",
-      "Student assignment and grading"
-    ],
-    "answer":1
-},
-
-{
-    "question": "The commission which has advocated for an Independent Regulatory Authority for Higher Education (IRAHE) is",
-    "options": [
-      "Administrative Reforms Commission",
-      "National Policy on Education",
-      "National Knowledge Commission",
-      "University Grants Commission"
-    ],
-    "answer":3
-},
-
-{
-    "question": "“ The destiny of India is being shaped in her classrooms”. This opening sentence is in the report of",
-    "options": [
-      "Radhakrishnan Commission",
-      "Mudaliar Commission",
-      "Kothari Commission",
-      "National Knowledge Commission"
-    ],
-    "answer":3
-},
-
-{
-    "question": "The most important quality of a teacher which the students like most is",
-    "options": [
-      "Know the names of all students",
-      "Let the students to make all the decisions",
-      "The knowledge that the teacher is really ‘humane’",
-      "Impartial enforcement of all regulations"
-    ],
-    "answer":3
-},
-
-{
-    "question": "A teacher is appointed as additional supervisor for conducting a final board examination in a school where the daughter of the teacher is admitted to write the examination. The teacher should",
-    "options": [
-      "Relinquish the appointment",
-      "Do the duties of an additional supervisor in conducting the examination",
-      "Not bring to the notice of the higher officials that the daughter of the teacher is a candidate",
-      "Avoid visiting the classroom of his daughter writing the examination"
-    ],
-    "answer":1
-},
-
-{
-    "question": "Suppose you are a teacher in a Higher Secondary School. Which activity would you prefer to undertake to implement the goal ‘Education for all’?",
-    "options": [
-      "Becoming a member of the discipline committee of the school",
-      "Helping the Principal to execute day-to-day activities smoothly",
-      "Carrying out extra curricular activities",
-      "Organising a community survey study"
-    ],
-    "answer":4
-},
-
-{
-    "question": "A teacher is satisfied in her profession when she has",
-    "options": [
-      "Good financial remuneration",
-      "Great appreciation from the society",
-      "Opportunity for social service",
-      "Achieved expected progress of her students"
-    ],
-    "answer":4
-},
-
-{
-    "question": "The function of a teacher in a democratic school system is:",
-    "options": [
-      "Filling the minds of students with knowledge",
-      "Help students become more capable of making intelligent decisions",
-      "Organising and planning experiences for the class",
-      "Fostering the personal growth of students"
-    ],
-    "answer":2
-},
-
-{
-    "question": "If a student comes to your home to share his problems, you would",
-    "options": [
-      "Warn him, never to visit your home again",
-      "Suggest him to discuss with his family members",
-      "Inform other teachers and the student’s parents",
-      "Extend reasonable help, boost his morale and counsel"
-    ],
-    "answer":4
-},
-
-{
-    "question": "The chief responsibility of the Headmaster/Principal of a school is",
-    "options": [
-      "To provide friendly, constructive and cooperative help to teachers",
-      "To observe the classes of the teachers to evaluate them",
-      "To direct the teachers to maintain academic discipline in the school",
-      "Administration of the school"
-    ],
-    "answer":4
-},
-
-{
-    "question": "The chief purpose of Parent Teacher Association meeting in a school is",
-    "options": [
-      "To finalise the way in which the finances allotted to the school can be best utilized",
-      "To exchange worthwhile ideas for the development of the institution",
-      "To criticize the methods adopted by teachers in the teaching-learning process",
-      "To prepare the budget for the whole school system"
-    ],
-    "answer":2
-},
-
-{
-    "question": "Suppose you are a teacher and come across a colleague of yours who is violating the professional ethics for teachers. Then you will",
-    "options": [
-      "Convince and persuade the colleague to follow the ethics",
-      "Inform the higher authorities",
-      "Criticize the colleague in front of other teachers",
-      "Ignore his behaviour"
-    ],
-    "answer":1
-},
-
-{
-    "question": "Being a well-known educationist you have been appointed as an examiner for paper valuation of a test conducted by Public Service Commission for the selection of an administrative officer. In your opinion, you should",
-    "options": [
-      "Reveal to some agents that you are the examiner of the test",
-      "Do the work confidentially with full responsibility",
-      "Give more marks to those cases who have approached you",
-      "Ask some of your research students to evaluate the papers"
-    ],
-    "answer":2
-},
-
-{
-    "question": "The teacher gave home work to Sujit. He did not do it as he spent his time playing cricket. In the next class, being afraid of punishment, he told the teacher that he was nursing his sick grand-father. As a teacher you should",
-    "options": [
-      "Neglect as it is quite common for children to do so",
-      "Give punishment since the excuse given by him was incorrect",
-      "Ask Sujit to bring his guardian to school to ascertain the truth",
-      "Advice Sujit that instead of telling lie he should have asked the teacher extra time to complete the homework"
-    ],
-    "answer":4
-},
-
-{
-    "question": "Elementary education should be",
-    "options": [
-      "Curriculum-centered ",
-      "Teacher-centered",
-      "Learner-centered ",
-      "Subject-centered"
-    ],
-    "answer":3
-},
-
-{
-    "question": "Read the following incomplete sentence and select the most appropriate alternative to complete it: I decided to become a teacher, because",
-    "options": [
-      "Teachers are getting good monthly salary",
-      "It gives me an opportunity to inculcate good values among children",
-      "It enables me to work under pleasant conditions",
-      "It makes me a figure of authority"
-    ],
-    "answer":2
-},
-
-{
-    "question": "Success of inclusive education mainly depends on",
-    "options": [
-      "Establishment of child friendly schools",
-      "Extensive use of ICT in schools",
-      "Attitudinal change among parents and teachers",
-      "Support of the community"
-    ],
-    "answer":3
-},
-
-{
-    "question": "The primary purpose of using audio-visual aids in classrooms is:",
-    "options": [
-      "To solve staff shortage by reducing the need for teachers",
-      "To make class quiet",
-      "To help student participation in the teaching-learning process",
-      "To clarify certain aspects of the learning experience"
-    ],
-    "answer":4
-},
-
-{
-    "question": "The aim in education according to classical realists is",
-    "options": [
-      "Salvation of the soul",
-      "Adjustment to nature",
-      "Preparation for one’s vocational pursuits",
-      "Development of the intellectual virtues"
-    ],
-    "answer":4
-},
-
-{
-    "question": "The teachings of Aristotle put the philosophical foundation for",
-    "options": [
-      "Experimentalism ",
-      "Naturalism",
-      "Classical realism ",
-      "Reconstructionism"
-    ],
-    "answer":3
-},
-
-{
-    "question": "Art education in school curriculum comes under",
-    "options": [
-      "Scholastic ability ",
-      "Co-scholastic ability",
-      "Psycho-social ability ",
-      "Cognitive ability"
-    ],
-    "answer":2
-},
-
-{
-    "question": "Learning disability in writing a language",
-    "options": [
-      "Dyscalculia ",
-      "Dysgraphia",
-      "Dyslexia ",
-      "Dysnomia"
-    ],
-    "answer":2
-},
-
-{
-    "question": "The primary aim of school education as an agent of society is",
-    "options": [
-      "To prepare the child for life",
-      "To develop cognitive skills in the child",
-      "To develop vocational competency",
-      "To give moral education"
-    ],
-    "answer":1
-},
-
-{
-    "question": "The development of spiritual, individual, social, intellectual and physical qualities of man was the aim of education during",
-    "options": [
-      "Dravidian period ",
-      "Vedic period",
-      "Post-Vedic period ",
-      "Buddhist period"
-    ],
-    "answer":4
-},
-
-{
-    "question": "The 21st century is likely to be governed by two C s namely,",
-    "options": [
-      "Children and Curriculum ",
-      "Cybernetics and Computers",
-      "Children and Computers ",
-      "Computers and Curriculum"
-    ],
-    "answer":2
-},
-
-{
-    "question": "The first English Medium School - Raja’s Free School was started in 1834 at Trivandrum by the initiative of",
-    "options": [
-      "Raja Ravi Varma ",
-      "Swathi Thirunal",
-      "Sree Chithira Thirunal D) Rani Gouri Bhai"
-    ],
-    "answer":2
-},
-
-{
-    "question": "A model in which students compare and contrast exemplars that contain certain attributes with examples that do not contain those attributes is",
-    "options": [
-      "Inquiry model",
-      "Cooperative Learning model",
-      "Concept attainment model",
-      "Inductive model"
-    ],
-    "answer":3
-},
-
-{
-    "question": "Which one of the following is not a characteristic of Cooperative Learning Model",
-    "options": [
-      "Requires group cooperation and interaction",
-      "Use micro groups",
-      "Destroys individual initiative",
-      "Focuses on task to be accomplished"
-    ],
-    "answer":3
-},
-
-{
-    "question": "The reflective practices can be accomplished through a well defined set of",
-    "options": [
-      "Content mastery ",
-      "Student centered activity",
-      "Readiness levels ",
-      "Field experiences"
-    ],
-    "answer":4
-},
-
-{
-    "question": "Skill which involves using various attention producing behaviour patterns in order to sustain the interest and attention of the students is",
-    "options": [
-      "Set induction ",
-      "Stimulus variation",
-      "Probing questions ",
-      "Explanation"
-    ],
-    "answer":2
-},
-
-{
-    "question": "Meera is a tenth class student with an above average IQ. But her achievements in school subjects are found to be low. As a teacher you will",
-    "options": [
-      "Ask Meera to study the subject with the help of high achieving peers",
-      "Help Meera by providing more home assignments",
-      "Identify the reasons resulting for low achievement and provide alternative strategies for Meera",
-      "Provide time to Meera to discuss her difficulties"
-    ],
-    "answer":3
-},
-
-{
-    "question": "A researcher is interested to study the examination result after treating students with a particular teaching style. In this case the teaching style is",
-    "options": [
-      "The dependent variable",
-      "The independent variable",
-      "The control variable",
-      "The extraneous variable"
-    ],
-    "answer":2
-},
-
-{
-    "question": "A researcher classifies the secondary school students in the State into boys and girls, those studying in urban and rural schools, from among government and private institutions in various revenue districts. He uses random digit table to select some of them from each group. This sampling technique is called",
-    "options": [
-      "Systematic sampling ",
-      "Cluster sampling",
-      "Stratified random sampling ",
-      "Quota sampling"
-    ],
-    "answer":3
-},
-
-{
-    "question": "Which one of the following is not applicable to Action Research?",
-    "options": [
-      "Focuses on immediate application",
-      "Design is simpler and flexible",
-      "Findings are evaluated in terms of local applicability",
-      "Evolve the development of a theory"
-    ],
-    "answer":4
-},
-
-{
-    "question": "Soma, a standard X student is always late in the class. The class teacher decided to do a research to find out the reason. This type research is called",
-    "options": [
-      "Behavioural research ",
-      "Theoretical research",
-      "Applied research ",
-      "Action research"
-    ],
-    "answer":4
-},
-
-{
-    "question": "A teacher systematically conducts weekly class tests, assigns grades on co-curricular activities of students, asks questions to all students at the end of each class and their relative positions are recorded, grade point average of each student is calculated. This evaluation is",
-    "options": [
-      "Summative evaluation",
-      "Cumulative evaluation",
-      "Continuous and comprehensive evaluation",
-      "Norm referenced evaluation"
-    ],
-    "answer":3
-},
-
-{
-    "question": "Which one of the following is not a positive feature of ‘grading’ system?",
-    "options": [
-      "Negative effect of pass and fail is eliminated",
-      "Indicate relative position of an individual student",
-      "Undue significance attached to raw scores are considerably increased",
-      "Test difficulty would not affect distribution of grades"
-    ],
-    "answer":3
-},
-
-{
-    "question": "Project method is based on the philosophy of",
-    "options": [
-      "Progressivism ",
-      "Idealism",
-      "Pragmatism ",
-      "Existentialism"
-    ],
-    "answer":3
-},
-
-{
-    "question": "Daniel Goleman popularized",
-    "options": [
-      "Verbal Intelligence ",
-      "Spatial Intelligence",
-      "Social Intelligence ",
-      "Emotional Intelligence"
-    ],
-    "answer":4
-},
-
-{
-    "question": "In a constructivist classroom, the teacher is",
-    "options": [
-      "Authority of classroom ",
-      "Transmitter of knowledge",
-      "Director of learning process ",
-      "Facilitator of learning"
-    ],
-    "answer":4
-},
-
-{
-    "question": "Scaffolding can promote learning according to",
-    "options": [
-      "Cognitivism ",
-      "Behaviourism",
-      "Humanism ",
-      "Constructivism"
-    ],
-    "answer":4
-},
-
-{
-    "question": "The relationship between learning processes and memory processes is",
-    "options": [
-      "Dependent ",
-      "Interdependent",
-      "Independent ",
-      "Intra-dependent"
-    ],
-    "answer":2
-},
-
-{
-    "question": "The differences among the various abilities of a student is known as",
-    "options": [
-      "Trait variability ",
-      "Individual differences",
-      "Differential aptitude ",
-      "Inter-individual differences"
-    ],
-    "answer":1
-},
-
-{
-    "question": "The problems created by students due to individual differences could be solved by providing",
-    "options": [
-      "Better teaching focused at the average students in the class",
-      "Specific ability grouping with appropriate adoption of curriculum",
-      "Teaching aimed at the level of ability of each child",
-      "Group method of instruction super imposed on general ability grouping"
-    ],
-    "answer":2
-},
-
-{
-    "question": "Problem-solving learning occurs at",
-    "options": [
-      "Memory level ",
-      "Understanding level",
-      "Reflective level ",
-      "Knowledge level"
-    ],
-    "answer":3
-},
-
-{
-    "question": "The programmed instruction is based on",
-    "options": [
-      "Classical conditioning ",
-      "Gestalt learning",
-      "Operant conditioning ",
-      "Cognitive learning"
-    ],
-    "answer":3
-},
-
-{
-    "question": "Minu has an IQ 103; Sajitha has an IQ 97. From this it can be inferred that",
-    "options": [
-      "Minu is more likely to achieve high in school",
-      "Minu’s true IQ is greater than that of Sajitha",
-      "Chances are 50-50 that Sajitha is brighter of the two girls",
-      "Both function at approximately the same intellectual level"
-    ],
-    "answer":4
-},
-
-{
-    "question": "Which of the following is a duty not generally expected from school counselors?",
-    "options": [
-      "Coordinate the guidance programme",
-      "Do some classroom teaching",
-      "Development of school curriculum",
-      "Take charge of placement-cell activities"
-    ],
-    "answer":3
-},
-
-{
-    "question": "One of the most important objectives of guidance to students is to bring about in them",
-    "options": [
-      "Ability to compete successfully with peers",
-      "Mastery of the subject within their capacity",
-      "An awareness of their major weakness",
-      "Increased responsibility for self direction"
-    ],
-    "answer":4
-},
-
-{
-    "question": "When counseling a student, the first thing the counselor should do is",
-    "options": [
-      "Cross examine the student to analyse his problems",
-      "Establish rapport with the student",
-      "Listen to the student’s narration of his problems",
-      "Check the students discipline records"
-    ],
-    "answer":2
-},
-
-{
-    "question": "Which one is not true for adolescents?",
-    "options": [
-      "Adolescents engage in a larger and more complex range of activities",
-      "Adolescents break away from parental control and some maintains double standards",
-      "Adolescents are anxious to find out what role they have to play in the group",
-      "Adolescents show mental growth at the same positive acceleration as found in physical traits."
-    ],
-    "answer":4
-},
-
-{
-    "question": "Which one of the following would best illustrate a good leader?",
-    "options": [
-      "He stands up for his views when he feels he is right",
-      "He encourages group discussion and group freedom in decision making",
-      "He tries to give the group full benefit of his personal experience",
-      "He takes policy decisions by himself"
-    ],
-    "answer":2
-    }
-  ]
+{
+      "question": "<svg width=\"327\" height=\"399\" viewBox=\"0 0 327 399\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<g id=\"India\">\n<g id=\"States\">\n<path id=\"Tamil Nadu\" d=\"M138.5 314.5L138 315H137L136.5 315.5L135 316L134 317H133L131.5 316L130.5 316.5L130 317L129 318L128.5 318.5H127L126.5 319H125.5L125 319.5H124.5L123.5 319H122L121.5 319.5V320V321L121 322L120 323L119.5 324H118.5L118 323L117 322L115.5 321.5H114L113.5 321L112.5 322V323L111 323.5L110 324V326L109.5 327L108.5 328L109 328.5L110 329H111L112 330L111 331.5H110L108 333.5L107.5 334H106.5V333.5H105L104.5 334H103V335L102.5 335.5H100L99 334.5H97L96 335.5L95 336L95.5 337L97.5 337.5L98.5 338L98 338.5V340H100L100.5 340.5L99.5 342L100.5 343L101.5 344L102 345L101 346.5L102 347.5V348.5L101.5 349.5L102 350.5L103.5 351L104.5 350.5L105.5 350V352L106.5 352.5V355L106 357L106.5 358H108V359.5L107 361.5L106.5 362.5L105.5 364.5V365L106.5 366V366.5L106 367.5V368L107 368.5V369.5L106 370.5L105.5 371V373L107.5 374L109 374.5L110.5 374L112.5 373L114 372L115.5 371L116.5 369.5V366.5L117.5 364L119 363L120.5 362.5L122 362L124 361.5H125.5H127H128L128.5 362H129.5L129 361H127H126L125 360V358L125.5 356.5L127 355L128 354V352.5L128.5 351L129 350H130L131 349.5L132.5 349L133 350L135 349V345L134 344L134.5 343L135 342L134.5 340.5V338L134 336V333.5L134.5 332.5L135 330.5L136 328.5L137.5 326.5L138.5 325L139 323.5L139.5 322.5V321V319.5L140 317.5V315.5L139.5 315L138.5 314.5Z\" stroke=\"#838383\"/>\n<path id=\"Kerala\" d=\"M104.5 372L105.5 373V371L107 369.5V368.5L106 368V367.5L106.5 366.5V366L105.5 365V364.5L108 359.5V358H106.5L106 357L106.5 355V352.5L105.5 352V350L103.5 351L102 350.5L101.5 349.5L102 348.5V347.5L101 346.5L102 345L101.5 344L99.5 342L100.5 340.5L100 340H98V338.5L98.5 338L97.5 337.5L95.5 337L95 336L96 335.5L97 334.5V333.5L96.5 333L96 332.5H95L94 332L93 331.5H92L91 330.5L90 330H88.5L87.5 329L86.5 328L86 327.5L85.5 326.5L85 325.5L84.5 325L84 324.5L83 324L82 323.5L81 323V324L82 325L82.5 326.5L83 328L83.5 329L84.5 330.5H85L86 332L86.5 333H87L88.5 335.5L90 338L90.5 339.5L91 342L92 344L93 345.5L94 349L95.5 352L96.5 354L97 355L96.5 355.5V357V358L97 357V356L97.5 356.5V357.5L97 358.5H96.5V359.5L97 360.5L98 362.5L98.5 364H99.5L100 364.5L99 365L99.5 366L101 367.5L102 369L103 370.5L104.5 372Z\" stroke=\"#838383\"/>\n<path id=\"Karnataka\" d=\"M117.5 321L116.5 322L115.5 321.5H114L113.5 321L112.5 322V323L111 323.5L110 324V326L109.5 327L108.5 328L109 328.5L110 329H111L112 330L111 331.5H110L107.5 334H106.5V333.5H105L104.5 334H103V335L102.5 335.5H100L99 334.5H97V333.5L96 332.5H95L93 331.5H92L91 330.5L90 330H88.5L86 327.5L85 325.5L84 324.5L81 323L80.5 322.5L80 320.5H79.5V319L79 318.5L79.5 317L79 316.5V314.5L78.5 313.5V312L78 311.5V311L77.5 310L77 309L76 307.5V306.5L75.5 305.5V303.5L75 302.5L74 301L73 300L72.5 299.5V298.5L73.5 297.5L74 296.5V294.5L73.5 294L74 293.5L74.5 293L74 292.5L73.5 292L73 291.5L73.5 290.5L73 289.5L73.5 288.5H74.5V287.5V286L75.5 285.5L76 284L75.5 283L75 282L74.5 281L73.5 280H74L75 279.5L75.5 279L76.5 278.5L77.5 279L78.5 278.5L79 277.5H79.5L80 277L80.5 276.5L81 276V275.5L82 274.5L82.5 275L83.5 276H84.5L85 275.5L86 275L87.5 274.5L88.5 275L89 275.5L89.5 273.5L89 271L89.5 269.5H90L90.5 270L92 270.5H92.5L93.5 271H95.5L97.5 271.5L98 271H98.5L98 270L97 269V267.5L97.5 266H99V266.5H100L100.5 266V265H101.5L102 264.5L103 264L102.5 262.5L103 262L104 261.5L104.5 261H105.5L106 260.5L106.5 260L106 259V258.5L106.5 257.5H107L107.5 258V259L108 259.5L109 260L109.5 260.5V261.5L110 262.5L110.5 263.5V264.5L111 265L110.5 265.5L109.5 266.5L109 267.5V268V268.5H110L110.5 269L111.5 269.5L110.5 270H110L109.5 271L108.5 272L108 272.5V273L108.5 273.5H109.5V274L109 275H109.5V276.5L109 277V279.5L108 280L107.5 280.5L107 281H108H108.5L109 281.5H109.5L110.5 282L110 283H109.5L110 284V286L109 286.5H106.5H105L104 287.5V288H104.5L105 289L104.5 289.5L104 290L103.5 290.5V291.5L104 292L104.5 293V293.5L105 294L104.5 294.5V296V297L103.5 297.5L103 297H102H101L101.5 297.5L102 298.5L101.5 299V301V302.5L102.5 303L103 303.5V304.5V305.5H104L104.5 305H106V304.5H108L109 305L109.5 305.5V306L109 306.5L108.5 307H107.5V307.5L108 308L108.5 308.5V309L108 309.5L107.5 309L107 308.5L106 308H105L104.5 307.5L103.5 307L103 306.5V307.5L103.5 308V309.5V311H104H104.5L105 310.5L105.5 309.5H106L106.5 310H107L108 311L109 312L110 311.5L111 311L112 310L112.5 308.5H114.5V310H115.5V310.5L116 312V313L117 313.5L117.5 313L118 312.5H119V315.5V316H120.5V317L120 318V319.5L119.5 320.5L118.5 321H117.5Z\" stroke=\"#838383\"/>\n<path id=\"Andhra Pradesh\" d=\"M138 314L138.5 314.5L138 315H137L136.5 315.5L135 316L134 317H133L131.5 316L130.5 316.5L128.5 318.5H127L126.5 319H125.5L125 319.5H124.5L123.5 319H122L121.5 319.5V321L121 322L120 323L119.5 324H118.5L118 323L117 322H116.5L117.5 321H118.5L119.5 320.5L120 319.5V318L120.5 317V316H119V312.5H118L117 313.5L116 313V312L115.5 310.5V310H114.5V308.5H112.5L112 310L111 311L109 312L107 310H106.5L106 309.5H105.5L105 310.5L104.5 311H103.5V308L103 307.5V306.5L103.5 307L104.5 307.5L105 308H106L107 308.5L108 309.5L108.5 309V308.5L107.5 307.5V307H108.5L109.5 306V305.5L109 305L108 304.5H106V305H104.5L104 305.5H103V303.5L102.5 303L101.5 302.5V299L102 298.5L101.5 297.5L101 297H103L103.5 297.5L104.5 297V294.5L105 294L104.5 293.5V293L104 292L103.5 291.5V290.5L105 289L104.5 288H104V287.5L105 286.5H109H111.5V287H113L113.5 286.5H114L114.5 287H115.5H116.5L117.5 286.5L118 285.5L119 284.5H120H121L121.5 284L122 284.5L122.5 285L123.5 285.5V284.5L124.5 284V283.5L125.5 283L126.5 282.5V283H127.5L128 282.5L128.5 282V281.5H128V280.5L128.5 279.5H129.5L130 278.5H131H132V277.5L133 278L133.5 277.5H135L135.5 278H136.5L137 277.5H137.5V276L137 275.5V275L137.5 274.5L138 274L138.5 273.5H139.5L140 274V274.5V275L140.5 275.5H141L141.5 276L142 276.5H142.5L143 276L143.5 275.5L143 275H142.5H142L141.5 274.5L141 274V273.5H142L142.5 273L143 272.5H144L144.5 273L145 273.5H146L146.5 272.5L147 272L147.5 271.5H149L150 271L150.5 270H151.5L153 269.5V268.5L153.5 268V266.5L154.5 265L155.5 264.5H156L156.5 264V263.5H157.5L158 263L158.5 262.5H159.5H160V263H161.5L162 262.5L162.5 261.5L162 261V259.5L162.5 258L163 257L163.5 256.5H164L164.5 257.5L165 258.5V260H165.5L166 259.5L166.5 258.5L167 258H167.5L168 258.5H169L169.5 259H170.5L171 258L170.5 257.5L170 257V256L170.5 255.5L171 254.5L171.5 254H172H173L173.5 253L174 252.5L173.5 252L173 251.5L173.5 251H174.5L175 250.5L175.5 251H176V250.5L176.5 249.5L177 250.5V251L178 252L178.5 252.5L179.5 253.5H180L181.5 254H182.5H183.5L184 253.5L184.5 252.5V252L185.5 251.5L187 250.5L188 250H189V250.5L188 251.5L187.5 252.5L186.5 253.5L185.5 255L184.5 256L183 257V257.5L182.5 258V259L180.5 260L178.5 261L176.5 262L175 263.5L173.5 265L171.5 267.5L169 269L166.5 270.5L164 272L162.5 273.5L161.5 275L161 276L161.5 277V278L160.5 278.5L159.5 279L158.5 280.5L157.5 281H155.5L155 281.5L153 281L152.5 281.5L152 281L151 281.5L150.5 282V282.5L150 283V284L149.5 284.5V285.5L148.5 287L147.5 287.5L146.5 288.5L146 288L145.5 287.5L144.5 287L143 287.5L142.5 288H141.5L140.5 288.5L139.5 289.5L139 291L138 293L137 295V298.5L137.5 299L138 300.5L138.5 302L139 303.5L138.5 304.5L138 305.5V308.5L138.5 309.5L139 310.5L139.5 311L139 311.5V312.5L138 311.5L137.5 312.5L138 314Z\" stroke=\"#838383\"/>\n<path id=\"Goa\" d=\"M73 289.5L73.5 288.5H73L72.5 289L72 289.5V290L71.5 290.5H71L70 289.5L69.5 288.5L69 288H68.5L68 288.5H67.5V289.5L68 290V290.5L68.5 291.5L69 292H69.5L69 292.5L69.5 293L70 293.5V295.5L70.5 296L71 297H71.5V298L72.5 298.5L73.5 297.5L74 296.5V294.5L73.5 294L74.5 293L73 291.5L73.5 290.5L73 289.5Z\" stroke=\"#838383\"/>\n<path id=\"Talengana\" d=\"M153.5 266.5L154.5 265H152.5L151.5 265.5H151L150 265H149L148.5 265.5L148 266L147.5 265.5L147 264V263V261.5L146 261V260.5H145.5L145 261L144 260.5L144.5 259.5V259L144 258L143.5 257L142 255.5H141.5V256H140.5L140 255.5V254.5H139L138 255L136.5 253.5L136 251.5V249V248L136.5 247.5V246.5L135.5 245.5L134 244.5L133.5 244L133 244.5L132 245.5H131V246L130 245.5L129 245L128.5 244.5L128 245V245.5L127.5 246L127 246.5H126V246L125 245.5V244.5L124.5 243.5H123.5L123 243L121.5 242H120.5L119.5 241H118.5L118 242V243.5L117.5 244V245L118 245.5L118.5 246L117.5 247H116.5L116 247.5L117 248L116.5 249H116L115.5 248.5L115 248H113.5L113 249V250L111.5 250.5V251.5L112 252.5L113.5 253L114 253.5L113 254L112 255V256.5L110.5 257.5L109.5 258.5L110 259.5L109.5 260.5V261.5L110.5 263.5V264.5L111 265L109.5 266.5L109 267.5V268.5H110L110.5 269L111.5 269.5L110.5 270H110L109.5 271L108 272.5V273L108.5 273.5H109.5V274L109 275H109.5V276.5L109 277V279.5L108 280L107 281H108.5L109 281.5H109.5L110.5 282L110 283H109.5L110 284V286L109 286.5H111.5V287H113L113.5 286.5H114L114.5 287H116.5L117.5 286.5L118 285.5L119 284.5H121L121.5 284L122.5 285L123.5 285.5V284.5L124.5 284V283.5L126.5 282.5V283H127.5L128.5 282V281.5H128V280.5L128.5 279.5H129.5L130 278.5H132V277.5L133 278L133.5 277.5H135L135.5 278H136.5L137 277.5H137.5V276L137 275.5V275L138.5 273.5H139.5L140 274V275L140.5 275.5H141L142 276.5H142.5L143.5 275.5L143 275H142L141 274V273.5H142L143 272.5H144L145 273.5H146L146.5 272.5L147.5 271.5H149L150 271L150.5 270H151.5L153 269.5V268.5L153.5 268V266.5Z\" stroke=\"#838383\"/>\n<path id=\"Maharashtra\" d=\"M140.5 253L140 254.5H139L138 255L136.5 253.5L136 251.5V248L136.5 247.5V246.5L135.5 245.5L134 244.5L133.5 244L132 245.5H131V246L129 245L128.5 244.5L128 245V245.5L127 246.5H126V246L125 245.5V244.5L124.5 243.5H123.5L123 243L121.5 242H120.5L119.5 241H118.5L118 242V243.5L117.5 244V245L118.5 246L117.5 247H116.5L116 247.5L117 248L116.5 249H116L115 248H113.5L113 249V250L111.5 250.5V251.5L112 252.5L113.5 253L114 253.5L113 254L112 255V256.5L110.5 257.5L109.5 258.5L110 259.5L109.5 260.5L109 260L108 259.5L107.5 259V258L107 257.5H106.5L106 258.5V259L106.5 260L105.5 261H104.5L104 261.5L103 262L102.5 262.5L103 264L102 264.5L101.5 265H100.5V266L100 266.5H99V266H97.5L97 267.5V269L98 270L98.5 271H98L97.5 271.5L95.5 271H93.5L92.5 270.5H92L90.5 270L90 269.5H89.5L89 271L89.5 273.5L89 275.5L88.5 275L87.5 274.5L86 275L85 275.5L84.5 276H83.5L82 274.5L81 275.5V276L79.5 277.5H79L78.5 278.5L77.5 279L76.5 278.5L75.5 279L75 279.5L74 280H73.5L74.5 281L76 284L75.5 285.5L74.5 286V288.5H73L72 289.5V290L71.5 290.5H71L70 289.5L69.5 288.5L69 288H68.5L68 288.5H67.5L67 288L66 287L65.5 285.5L65 284.5V282.5L64.5 281L64 279.5V278L63.5 277V276L63 275V273.5L62 273L62.5 271.5L62 271V268L61.5 267.5V265L61 263.5L60.5 262L59.5 261.5V260.5L60 260V259.5L59.5 258.5L59 258V257H59.5L60 256.5L59.5 256L59 255.5V254.5L58.5 254H59L60 253.5L59.5 253V252.5V252H60L60.5 251.5L61 251L60 250.5L59.5 250V250.5L59 251.5H58.5L58 251V248H58.5L59 247.5H58.5L57.5 247V246.5L58 246L59 245.5V245L58 245.5L57.5 245L57 244.5V243V241.5L56.5 240L57 239L57.5 238H58L59 237L59.5 238.5L60 239H61L61.5 239.5H62.5V238.5L63.5 237.5L64.5 237V236.5L64 235.5H64.5L65 234.5L65.5 234L65 233V232L66 232.5L67 233.5H68.5V232.5L69.5 232L70 231.5V230L69.5 228.5L67.5 227L69 226L69.5 225.5L70 224.5V223.5H71.5L72.5 223L73.5 222.5L74 221.5H72L71 222L70 222.5H69L68.5 222L69 221L69.5 220L69 219.5L69.5 218.5L70 218L70.5 217.5H71.5H72H73L73.5 217L74.5 216.5L75 216L75.5 216.5L76.5 217V218L76 218.5L76.5 219.5L77.5 220.5L79 221H82V222L83.5 223L84.5 223.5H86.5H93.5L94 224.5L94.5 226L95 227L96 227.5L97 227L98 226.5L99.5 226L100 225.5L99.5 224L101 223L102 221.5L103 220.5L104 220H105L106 219.5L107 219H108.5L109 219.5L109.5 220.5H110V222H108.5V223L109.5 223.5H110V224.5L113 224H114L115 223.5L116 223L117.5 222L118.5 221H119.5L120 222L120.5 222.5H123H124.5L125 221.5H126L127 221L128 220H129.5L130.5 220.5L131 221L131.5 221.5H132.5L133 221H134L134.5 221.5H135L136.5 222H137.5L138.5 221V220.5H139.5L140 221L140.5 221.5L141 222L141.5 223L142 223.5L143 224L144 224.5L143.5 225.5L142.5 226L142 227L141.5 228L142 229L143 229.5L142.5 230V231L142 231.5L142.5 232L143.5 232.5V236L142 237L141 237.5L141.5 238L142 238.5L143 239L142.5 240V241H141.5V242L142 242.5H143L144 243V244.5H144.5L145.5 245L146 245.5L146.5 246.5L146 247L145 248H144L143 247L142 247.5L141 249L140.5 250V250.5L140 251V252L140.5 252.5V253Z\" stroke=\"#838383\"/>\n<path id=\"Chhattisgarh\" d=\"M144 221V224.5L143.5 225.5L142.5 226L141.5 228L142 229L143 229.5L142.5 230V231L142 231.5L142.5 232L143.5 232.5V236L142 237L141 237.5L142 238.5L143 239L142.5 240V241H141.5V242L142 242.5H143L144 243V244.5H144.5L145.5 245L146 245.5L146.5 246.5L145 248H144L143 247L142 247.5L141 249L140.5 250V250.5L140 251V252L140.5 252.5V253L140 254.5V255.5L140.5 256H141.5V255.5H142L143.5 257L144.5 259V259.5L144 260.5L145 261L145.5 260.5H146V261L147 261.5V264L147.5 265.5L148 266L149 265H150L151 265.5H151.5L152.5 265V264L153 262.5L153.5 261.5V259.5L154.5 258.5H155.5L156 259L156.5 258L157 257L158 256L158.5 255L160 254L161.5 252L161 251V249.5L160 248.5V246.5L159.5 245V243.5L158.5 242.5L157.5 242V241L157 240V239H159.5V239.5H160.5L161.5 240L162.5 241.5H163L163.5 241L165 241.5V242L166 242.5L167 242V241L166 240L164.5 239.5L163 239L162.5 238L163 237V233.5H162.5V231L162 230.5V229H163V230L164 229.5L165.5 228V226.5H167.5L168.5 225.5L169.5 227L171 226.5L171.5 226V225L172 224.5H173H174V223.5L173.5 223L173 222.5V222H173.5V221L174.5 220.5V219.5L176 218.5V217.5L175 217V215.5L176 214L177.5 213L179 212.5L180 212V210L181 209L181.5 208.5H183L183.5 207.5L184 206.5L185 206V205H183.5V204.5H181.5L180.5 203V201L180 200.5V199H180.5V198L180 197L179 198L178 197L177 195.5L176 194L174.5 193.5V192L173.5 191.5L172 192V194L171 194.5H169.5L168 194L167 193H166L165 193.5L162.5 195H157.5L156 195.5L154.5 197L156 198.5H158L160 200V202L160.5 203L158.5 204.5V205.5L157.5 206L155.5 208V209.5L153.5 211H150L148.5 212L147.5 214.5L146 216.5V219L145 220.5L144 221Z\" stroke=\"#838383\"/>\n<path id=\"Odisha\" d=\"M189 249V250H188L187 250.5L185.5 251.5L184.5 252V252.5L184 253.5L183.5 254H181.5L180 253.5H179.5L177 251V250.5L176.5 249.5L176 250.5V251H175.5L175 250.5L174.5 251H173.5L173 251.5L174 252.5L173.5 253L173 254H171.5L171 254.5L170.5 255.5L170 256V257L171 258L170.5 259H169.5L169 258.5H168L167.5 258H167L166.5 258.5L166 259.5L165.5 260H165V258.5L164 256.5H163.5L163 257L162.5 258L162 259.5V261L162.5 261.5L162 262.5L161.5 263H160V262.5H158.5L157.5 263.5H156.5V264L156 264.5H155.5L154.5 265H152.5V264L153 262.5L153.5 261.5V259.5L154.5 258.5H155.5L156 259L157 257L158 256L158.5 255L160 254L161.5 252L161 251V249.5L160 248.5V246.5L159.5 245V243.5L158.5 242.5L157.5 242V241L157 240V239H159.5V239.5H160.5L161.5 240L162.5 241.5H163L163.5 241L165 241.5V242L166 242.5L167 242V241L166 240L163 239L162.5 238L163 237V233.5H162.5V231L162 230.5V229H163V230L164 229.5L165.5 228V226.5H167.5L168.5 225.5L169.5 227L171 226.5L171.5 226V225L172 224.5H174V223.5L173 222.5V222H173.5V221L174.5 220.5V219.5L176 218.5V217.5L175 217V215.5L176 214L177.5 213L179 212.5L180 212V210L181 210.5L181.5 211L183 212L184 212.5H184.5L185 212L186 211.5H186.5V211H190.5L191.5 210.5L192 211V212.5V213.5L191 214L191.5 215H192.5L193 215.5H194L194.5 215H195.5L196 214.5L196.5 215H197.5V215.5H198.5L199.5 215V215.5L200 216.5H201L201.5 216L202 215.5L201.5 214.5V214L202.5 213L203 212.5L202.5 211.5L202 211L202.5 210L204 210.5L205.5 212L207 213L208.5 213.5L210 214.5L211.5 215L212.5 216L213 217L214 218L215 217H216V218L217.5 219L218 220L218.5 221L217.5 221.5H216L215.5 222H214.5L213.5 223.5H212.5L211.5 225L211 226.5L212 227.5V228.5L212.5 230L213 231V232L212 233L210 234.5L209.5 236L208 238L206.5 239.5L204 241.5H202L199.5 242.5L197 243.5L195 244.5L197.5 242L197 241H195.5L194.5 242.5L193 244L192.5 245L193 245.5L194.5 245L192.5 246.5L190.5 248L189 249Z\" stroke=\"#838383\"/>\n<path id=\"Madhya Pradesh\" d=\"M167 191.5V193H166L165 193.5L162.5 195H157.5L156 195.5L154.5 197L156 198.5H158L160 200V202L160.5 203L158.5 204.5V205.5L157.5 206L155.5 208V209.5L153.5 211H150L148.5 212L147.5 214.5L146 216.5V219L145 220.5L144 221V224.5L142 223.5L141.5 223L141 222L139.5 220.5H138.5V221L137.5 222H136.5L135 221.5H134.5L134 221H133L132.5 221.5H131.5L130.5 220.5L129.5 220H128L127 221L126 221.5H125L124.5 222.5H120.5L120 222L119.5 221H118.5L117.5 222L116 223L114 224H113L110 224.5V223.5H109.5L108.5 223V222H110V220.5H109.5L109 219.5L108.5 219H107L105 220H104L103 220.5L102 221.5L101 223L99.5 224L100 225.5L99.5 226L98 226.5L96 227.5L95 227L94.5 226L94 224.5L93.5 223.5H84.5L83.5 223L82 222V221H79L77.5 220.5L76.5 219.5L76 218.5L76.5 218V217L75.5 216.5L75 216L74.5 216.5L73.5 217L73 217.5H72V217L72.5 216V215L71.5 213.5L72 212.5L73.5 212V211H72.5L71 210.5L72 209.5H73.5L74 209L74.5 208.5L76 207.5V206.5L75.5 205L74.5 204L77 203.5L78 203L79 202L78 201.5H76.5L77 200L78 199L79.5 198.5L81 197.5V194L81.5 193L80.5 192V190.5L79 190V188.5L80 187.5L78.5 187L79.5 186L80 185H81.5L82 184L81 183.5L80 182.5L80.5 182L81.5 182.5H82.5L83 182V181L83.5 180H85.5L85 181V181.5L86 182L84.5 183V184L85 184.5H86L87 185L87.5 184.5H88.5L89.5 184L90 183.5L90.5 184L91 185L91.5 186.5L90 188V190L89.5 191L90 191.5L90.5 192.5L89.5 193L88.5 192.5L87 193L87.5 194.5L89 195L91 194.5L92.5 193L94 191.5V190.5L95 189.5L96 190H98L98.5 190.5L99 189.5H100V190.5L101.5 191.5H102.5L103 190.5L102 189V188L102.5 186.5L103.5 187.5L104.5 186.5V185L103.5 183.5H102L101 182.5H103L102.5 181.5V180.5L103.5 179.5L104.5 180H105L105.5 179.5H107H108L108.5 178.5L107.5 177.5L107 176H106.5L105.5 177H104.5L103.5 177.5L103 177H101.5L100 176.5L99 176V175.5L98.5 174.5V172L99.5 170L100.5 169.5L102 168L104 167L106.5 165L108.5 163.5L110.5 163L113 161.5L115 160H116L117.5 158.5L118.5 158L120 159L121 159.5H121.5L122.5 159L124 159.5L125 160L125.5 161.5L126.5 163L127 164.5L126 165.5L125.5 166.5L126 167L125 167.5V169L124 170.5L123.5 172L122.5 173L121.5 173.5H120.5L119.5 174.5L118 176L118.5 176.5L119 177.5V179L118.5 180L118 181L117 182L116.5 183L117.5 184V185.5L117 186.5L118 187.5H118.5L119 188.5L118.5 189L119.5 190L120 188.5H120.5L121 189L121.5 190H122.5L123.5 190.5L124.5 189.5L125 188.5L125.5 187V186L124.5 185.5L123.5 186L123 185.5V184.5L123.5 184V183L122.5 182L122 180.5L121.5 180V178.5L121 178V176H122.5L123.5 175.5L124 174.5L125 174L125.5 174.5V176L125 177L124.5 176.5L124 177V177.5L125 178V179L125.5 178.5L126 178L126.5 178.5L127 179.5H128.5L129.5 179L129 178.5V177.5L129.5 177L130.5 177.5V179L131 180H131.5L132 179H133L134 180L135 179L137 177L138.5 176.5L139.5 175.5L140 177L140.5 177.5L141 178L140 179.5L139.5 180.5H140.5L141.5 181H142L142.5 179.5L143.5 179L144 179.5H145L145.5 180.5L146.5 181.5L148 182L149.5 181.5L150 180.5L150.5 179H151.5L152.5 179.5V178.5H154V180H155L156.5 181L157 182L158.5 183H160L161 184L162 185.5L163 184.5L163.5 185H164.5L165.5 184.5H167L167.5 185.5L167 186V187L167.5 188V189L167 189.5L167.5 190.5L167 191.5Z\" stroke=\"#838383\"/>\n<path id=\"Jharkhand\" d=\"M211 213.5L210 214.5L208.5 213.5L207 213L205.5 212L204 210.5L202.5 210L202 211L202.5 211.5L203 212.5L201.5 214V214.5L202 215.5L201 216.5H200L199.5 215.5V215L198.5 215.5H197.5V215H196.5L196 214.5L195.5 215H194.5L194 215.5H193L192.5 215H191.5L191 214L192 213.5V211L191.5 210.5L190.5 211H186.5V211.5H186L185 212L184.5 212.5H184L183 212L181.5 211L181 210.5L180 210L181.5 208.5H183L184 206.5L185 206V205H183.5V204.5H181.5L180.5 203V201L180 200.5V199H180.5V198L180 197L179 198L178 197L176 194L174.5 193.5V192L173.5 191.5V190.5L174 189L173 188L172.5 187L173.5 186.5L174 186L175.5 186.5L176.5 187L177.5 186.5H179L180.5 185H181L182 186.5H183.5L184.5 188L185.5 189.5L187 188.5L188 188L188.5 186.5H189L190.5 188H192L194 187L196.5 185.5H198.5V184.5L199 183.5L200.5 183H203L204 184.5L205.5 186.5L207 188L207.5 187L208.5 186H209.5L210 185.5L211 185L213 185.5L213.5 185V183.5L215 182.5V180.5L215.5 180V179L216.5 178L217.5 178.5H218L218.5 177.5L219 176.5L220 177H221L221.5 178V180L223.5 181V182L222.5 183.5L223 185L222.5 186L221.5 186.5L222 187.5L221.5 189L220 190L219 192.5L218 193.5L217 192.5H216V193L216.5 194L215.5 194.5L215 195H214L213.5 194.5L212 194L211.5 195V195.5L210.5 196.5L208.5 197L207 198L206.5 199L206 199.5L205.5 200H205L204 199L203 198.5L202 199H201L201.5 199.5L201 200.5L200.5 202L201 203L202.5 204L204.5 204.5L205 205L207.5 204.5L208.5 205L207 205.5V207L208.5 208L210 209.5L211 210L210.5 211L212 212V213L211 213.5Z\" stroke=\"#838383\"/>\n<path id=\"West Bengal\" d=\"M219.5 220.5L218.5 221L217.5 219L216 218V217H215L214 218L213 217L212.5 216L211.5 215L210 214.5L211 213.5L212 213V212L210.5 211L211 210L210 209.5L208.5 208L207 207V205.5L208.5 205L207.5 204.5L205 205L204.5 204.5L202.5 204L201 203L200.5 202L201 200.5L201.5 199.5L201 199H202L203 198.5L204 199L205 200H205.5L206.5 199L207 198L208.5 197L210.5 196.5L211.5 195.5V195L212 194L213.5 194.5L214 195H215L215.5 194.5L216.5 194L216 193V192.5H217L218 193.5L219 192.5L220 190L221.5 189L222 187.5L221.5 186.5L222.5 186L223 185L222.5 183.5L223.5 182V181L221.5 180V178L221 177L221.5 176L223 175.5L224.5 174V173L223.5 172L222 170V168L223.5 167.5L224.5 166L226 165L227.5 163.5L227 162.5V161L226 159.5L225.5 158L225 156.5L224 155V153.5L225.5 155H227.5L228 155.5H229L230 154H232.5L234 156.5L236.5 158.5L238.5 158L240 158.5L240.5 159H241.5L242.5 160L244.5 159L246 159.5L246.5 161L246 163.5V165L245 166H243L242 166.5L241.5 167.5L241 169H240L238.5 168L236.5 166.5L235.5 165.5V164.5L236 163.5L235 163L234.5 163.5V164.5L235 165.5H234L232.5 164.5L231 164L230 163L229 161.5L228.5 162V163L229 163.5V164.5L228.5 165L227.5 166.5L226 168L225 170L225.5 171H227L228.5 172.5L230 173.5L231 174.5L231.5 175L232.5 174.5L233.5 175L233 176L233.5 177H235L234.5 178L233.5 179L233 178.5H232.5L232 178H230.5H229.5L229 179V180L228.5 181L227.5 182L227 182.5L226.5 181.5L226 182L225.5 183L225 183.5L224.5 184.5L225 185.5L226 186.5L227.5 187.5L229 188.5L230.5 189L232 189.5V191.5L232.5 192V193L231.5 194L230 195V195.5L230.5 196V197.5L232.5 199L232 200.5L231.5 201L233 201.5L234.5 202V203L233.5 204V205L234.5 206V209L234 210L235 210.5V212L235.5 213.5L236 214.5L235.5 215.5L236 216.5L235.5 218V219L236 220H235L233.5 219.5L233 220V221H231.5L230.5 220.5L229.5 221L229 219.5L228 220L227.5 221H227V220.5L226.5 219.5L226 218.5V217L225 216.5L224.5 217.5L223.5 218.5L222.5 219.5L220.5 220.5H219.5Z\" stroke=\"#838383\"/>\n<path id=\"Sikkim\" d=\"M229 155.5L230 154H232.5L233.5 153.5L234 153V152.5L233 151V148.5L233.5 146.5V144.5L232.5 143.5L231 142L230 143L229 144H227L225.5 144.36V145.5L226 146L225.5 147L224.5 149.5V151L224 153.5L225.5 155H227.5L228 155.5H229Z\" stroke=\"#838383\"/>\n<path id=\"Bihar\" d=\"M174.5 184.5V186L175.5 186.5L176.5 187L177.5 186.5H179L180.5 185H181L182 186.5H183.5L185.5 189.5L187 188.5L188 188L188.5 186.5H189L190.5 188H192L194 187L196.5 185.5H198.5V184.5L199 183.5L200.5 183H203L204 184.5L205.5 186.5L207 188L207.5 187L208.5 186H209.5L210 185.5L211 185L213 185.5L213.5 185V183.5L215 182.5V180.5L215.5 180V179L216.5 178L217.5 178.5H218L219 176.5L220 177H221L221.5 176L223 175.5L224.5 174V173L223.5 172L222 170V168L223.5 167.5L224.5 166L226 165L227.5 163.5L227 162.5V161L226 159.5L225.5 160L225 161L225.5 162.5L225 163.5L224.5 164L223.5 163.5L222.5 163V163.5L221.5 163L221 163.5L220 164L219 163.5L218.5 163L217.5 163.5L216.5 164L216 163.5L215.5 163L214.5 163.5L214 162.5L213.5 161.5L212.5 162L212 162.5L211 163H210L208 162L207.5 161.5H206L205.5 161H203.5L203 160.5L202 161L200.5 161.5L199.5 160.5L199 159L198 158L196.5 158.5L195.5 159L194 159.5L193.5 158.5L192 158L190 157L189.5 156L188 155.5V154L187.5 152.5H186.5L184.5 152L183 151L181.5 150L181 151L179.5 150.5L178.5 151.5V153.5L180 154L181 155V157L182.5 158L183.5 159L184 160.5L182.5 161H181L180 162L181 163.5L182.5 164.5L181 166V167L182 168.5L184 169.5H186L187 171L189 172L188.5 172.5L186 172H181.5L180 173L177.5 176L174.5 177.5L173 179L173.5 181L173 183.5L174.5 184.5Z\" stroke=\"#838383\"/>\n<path id=\"Gujrat\" d=\"M74 203L74.5 204L75.5 205L76 206.5V207.5L74.5 208.5L73.5 209.5H72L71 210.5L72.5 211H73.5V212L72 212.5L71.5 213.5L72.5 215V216L72 217V217.5H70.5L69.5 218.5L69 219.5L69.5 220L68.5 222L69 222.5H70L72 221.5H74L73.5 222.5L71.5 223.5H70V224.5L69.5 225.5L69 226L67.5 227L69.5 228.5L70 230V231.5L69.5 232L68.5 232.5V233.5H67L66 232.5L65 232V233L65.5 234L65 234.5L64.5 235.5H64L64.5 236.5V237L63.5 237.5L62.5 238.5V239.5H61.5L61 239H60L59.5 238.5L59 237L58 238L57.5 237.5L58 236.5V235L58.5 236L59 235.5L59.5 235L58.5 234.5L59 234L58.5 232.5L59 231.5V230L58.5 229V227.5L58 226.5H57L56.5 225.5L57 225V224L56 223.5L57 222.5V221L58 220.5L57 220H55.5L56 219L56.5 218V217.5L57 216.5H56.5L55.5 217L55 217.5V216L55.5 215L56 214H57L58 213.5L56.5 213H55.5L54.5 213.5H53.5L53 212L52.5 213L53 214L52.5 215L52 216.5L51.5 218L52 219.5L51.5 220L52.5 221L52 221.5L51.5 222.5L51 223.5L50 224.5V226L49 227H48L47 227.5L45.5 228.5H44L42.5 229.5L40.5 230.5L39.5 231L38 231.5L38.5 231H37.5L37 231.5H35L33 230.5L31.5 229L28.5 226.5L26.5 224.5L25 223L23.5 222L22 220L20 218L18 216.5L17 214.5L16 213V212L16.5 211.5L17 211V212H17.5L18.5 211.5L18 212.5L18.5 213.5L20 213L21 212.5L22 212L23 212.5L23.5 212L24.5 211L25 211.5H26L27 210L28 210.5L29 210L29.5 209.5L30 208L31 207L31.5 206L32.5 205.5V205L33 204H32.5H31.5L30.5 203.5L31 204V205H30V204V203H29.5V203.5L29 204V205L28.5 205.5H27.5L26.5 206L25.5 206.5L24.5 207L23.5 207.5H22.5L21 207L19.5 206.5L17 205.5L14.5 204L13 203L12 202L12.5 201L12 200L11 198.5V197L12 196L13.5 195L14 194.5H13L12.5 195H11.5V194H11V195L10 196L9.5 197L9 197.5H8L7.5 197L8 195.5V194.5L9 193.5L10 192.5L12.5 193L13.5 192.5L14 191.5V189L15.5 189.5L17 190L18 189.5L18.5 190L20 189.5L21.5 189L23 189.5L24.5 190.5L26 191L27.5 190.5L28.5 189.5L29 189L30 188.5H31L32 188L33 187.5L33.5 188V189L34.5 190H36L36.5 189L37.5 188L38.5 187L38 186L38.5 184.5L40 185L41.5 185.5L42.5 185L43.5 184.5L45 185L46 185.5L48 185L49 185.5L50 185H50.5L52 185.5L53.5 186L54 187.5H54.5L55 186.5L56 187.5L57.5 188L58.5 188.5L59.5 189V188L60 187H61L61.5 188L62.5 188.5L61.5 189.5V191.5L62.5 192.5L63 193L64 191.5L64.5 192V193L64 194.5L64.5 195.5L65.5 197H67L66.5 198.5L67.5 199.5L69 200L70.5 201L72 201.5L72.5 203L73.5 202.5L74 203Z\" stroke=\"#838383\"/>\n<path id=\"Himachal Pradesh\" d=\"M111.5 113L110.5 114L109.5 113.5H108.5L108 113L107.5 112L107 112.5H105.5V111.5L105 110.5L104.5 110L103.5 109L102.5 108H101L100 106.5V105L99.5 104L99 102.5L98 101.5H97L96.5 102.5L95.5 102L94 100.5L93.5 98.9999L93 97.9999L92 96.4999L91.5 95.4999V93.9999L90.5 92.9999L89.7668 91.9999L89.5 90.9999L89 89.9999L90.5 89.4999L91.5 88.9999L92.5 87.9999L92 87.4999L91.5 86.4999L92.5 84.9999L93 83.9999L92 82.9999L91 81.4999L92 80.9999L92.5 80.4999H94.5L96 79.4999L97.5 78.4999L98.7356 77.9999L100 78.4999L101 77.9999L101.5 78.9999L102.5 79.9999L104 80.4999L105.5 81.4999L107.22 82.9999L108 82.4999H109.5L110.5 81.4999L112 80.9999L113.5 81.4999L114 82.9999L114.5 84.4999L115.5 84.9999L117 83.9999H118V84.9999L117.5 85.9999V87.4999H118.5L119.5 86.9999L120 87.9999V90.4999L120.5 91.4999L121.5 91.9999L123 93.9999V95.4999L122.5 95.9999V96.9999L123.5 97.9999L124 98.9999L123 99.9999V101.5L123.5 102.5L124.5 103L123.5 103.5H122.5L121 102.5L120 102H118.5L117.5 102.5L116 103.5L114.5 104.5H113L112 106V107.5L111.5 109L112 110V111.5L113 112.5L111.5 113Z\" stroke=\"#838383\"/>\n<path id=\"Uttarakhand\" d=\"M111.5 113L110.5 114L111.5 114.5L112 115L113 115.5V116H114L113.5 117L113 117.5L112.5 118.5L112 119.5L111.5 120.5L112 122H112.5V121.5L113 121L114 121.5L114.5 122L115.5 123H116.5L117.5 122L118 121.5H118.5L119.5 122H120.5L121.5 123L123 124L124 124.5L125 125.5L124.5 126.5L123 128L124.5 129.5L125.5 130L126.5 129.5L127.5 130.5V131.5H128.5L130 132V132.5H132L132.5 133L133 133.5L134 133H134.5L135 133.5H136.5L137 133V132.5L138 131.5L138.5 130.5V130H139.5V129L140 128.5V127.5L139.5 127V126.5L140 125.5L140.5 124.5L141 123.5L140.5 123L141 122L142 121.5L143 120.797V119.5H144L144.5 119L146 117.5V116.5H147L147.5 117H148.5L148 116L147 115H145.5L144.5 114.5L143.5 113H142.5L142 112.5H140L138.792 111.5L139 110.5L138.5 109.5L136.792 109L136 107.5L134.5 106.5H133.5L132.5 107L131.5 106.5L129.5 105L128.5 103L127 101H126L125 102L124.5 103L123.5 103.5H122.5L121 102.5L120 102H118.5L117.5 102.5L114.5 104.5H113L112 106V107.5L111.5 109L112 110V111.5L113 112.5L111.5 113Z\" stroke=\"#838383\"/>\n<path id=\"Meghalay\" d=\"M274 179.5L272.5 180.5H272L271 180L269.5 179L268.5 178.5H267V179H265.5L264.5 179.5H262.5L260.5 178.5H256.5L252.5 179H250L249 178.5H247.5L246 177.5L244 177L243.5 175L244 174L245 173.5L246 172.5L246.5 171.5L247.5 170.5H249L250.5 170L252.5 169.5L253.5 169L255 170H258.5L259.5 170.5L261 171L262.5 170.5L264 169H264.5L265.5 169.5L266 168.5H267.5V168H270.5V168.5L270 169.5L269.5 171V172L270 172.5L271 172L272 171.5L273.5 172.5L274.5 173L276 173.5L275.5 174.5H274.5V175.5L276 177V178L274 179.5Z\" stroke=\"#838383\"/>\n<path id=\"Tripura\" d=\"M269 186.5L270 185.5L270.5 186.5L271 187V188.5V190L271.5 191V193L271 193.5V195.5L270.5 196L269 196.5L268.5 197H268L267.5 196L267 196.5V197.5L267.5 198V198.5L267 199.5L266 200.5L265.5 202.5V204L265 204.5H264L263.5 205L262.5 204.5V203.5L262 202.5L261.5 202L261 203V204H260.5L260 203V201.5H259.5V199.5V198.5L258.5 197.5L258 196.5L259 195.5L259.5 194L260 193H261V191.5H262L262.5 192H263L263.5 191.5L264 191V190L264.5 190.5L265 191L265.5 190.5V189.5L266 190L266.5 191V190.5L267 190V189L267.5 188H268.5L269 188.5L269.5 187.5L269 186.5Z\" stroke=\"#838383\"/>\n<path id=\"Manipur\" d=\"M279 190L278.5 189H279.5V188V186V184L280.5 183L281 182L282 180.5L282.5 178.5L283.5 177.5L284.5 178L285.5 177.5L286.5 177L287 175L288 174.249L289 174.5H292.5L293.5 174.249L294 173.5L295 172.5L296 173V174.249V175L296.5 175.5V176V177L296 178L297 178.5L298 179.5V180.5L297.5 181V182L296.5 184L295.5 186L294 187.5L293.5 189L292.5 191L292 192.5V193.5L291 194.5L290 194L289 193L288 193.5L287.5 193L286.5 192.5L285.5 193H284L283 192L282.5 193L282 192H280L279 191V190Z\" stroke=\"#838383\"/>\n<path id=\"Nagaland\" d=\"M298 174.5L296.5 175.5L296 175V173L295 172.5L294 173.5L293.5 174.5H292.5H289L288 174L287 175L286.5 177L284.5 178L283.5 177.5L284 176L283.5 175L282.5 174V173.5H283.5L284 172.5L285 171.5L286.5 171L288 170L289 169V167.5L289.5 166.5L291.5 165L292.5 163.5L293 162L294.5 160.5L296 159.5L297 160L298.5 159.5L299.5 159L300.5 158H301.5L302.5 157.5L303 157L303.5 157.5L303 158.5V160.5L302 161.5L301.5 162.5L301 163.5L301.5 165L302 165.5V167.5L302.5 168L302 168.5L301 169.5V171H301.5V171.5L300.5 172.5L299 174L298 174.5Z\" stroke=\"#838383\"/>\n<path id=\"Mizoram\" d=\"M275.5 216.5H274.5V215.5L274 214V212.5L273.5 212V210.5L273 210V208.5L272.5 208V206.5L272 205.5L271.5 204L271 203.5V202L271.5 201V199.5L271 198.5L270.5 198V196L271 195.5V193.5L271.5 193V191L271 189.5L272.5 189V190L273 190.5L273.5 191L274 190.5L274.5 190L275 189.5L275.5 188.5L276 187.5H276.5L277 188.5L277.5 189H278.5L279 190V191L280 192H282L282.5 193L283 194V195L283.5 196V197.5L283 198.5V200L282.5 200.5L283 203.5L282 205L281.5 204.5L280.5 204L280 205L280.5 205.5L280 206.5V207.5L279.5 208.5L280 210L280.5 211L281 211.5V213.5L280 214L279.5 215L278.5 216L278 217L277 216.5L276.5 215.5L275.5 214.5V216.5Z\" stroke=\"#838383\"/>\n<path id=\"Punjab\" d=\"M90.5 87.4999L91.5 86.4999L92 87.4999L92.5 87.9999L91.5 88.9999L90.5 89.4999L89 89.9999L89.5 90.9999V91.9999L90.5 92.9999L91.5 93.9999V95.4999L92 96.4999L93 97.9999L93.5 98.9999L94 100.5L95.5 102L96.5 102.5L97 101.5H98L99 102.5L99.5 104L100 105V106.5L101 108H101.5V109L101 109.5V110L101.5 110.5L102.5 111H103L103.5 112L103 114L102 113.5L101 114L100 115L99.5 116L99 117L98.5 118L97.5 117.5L96.5 118L95.5 117.5L95 118L94.5 119V120H95.5V121L94.5 121.5L93.5 122.5L92.5 123L91.5 122L91 121.5H90L89 122.5L88 122H87L86 123L85.5 124.5H84.5L83.5 123.5L84 123L84.5 122.5V121.5L83.5 122H83V121L82.5 120.5V121.5L81.5 121L80 119.5H79L77.5 120H76L75 119.5L74 119L72.5 119.5H70L69.5 118.5L70 117.5L70.5 116.5L70 116L69.5 115V114L70.5 113.5L71 112L73 111L74 109.5L76 107.5L77 105.5L77.5 106L78.5 105.5L77 104.5L76 103.5L77 102L77.5 99.9999L77 98.4999L76.5 97.4999L77 95.9999L78.5 94.4999H79.5L80 93.4999L81 92.9999L83 92.4999H84L85.5 91.4999L86.5 90.9999L86 90.4999L85.5 89.4999V88.9999H87.5L89 88.4999L90.5 87.4999Z\" stroke=\"#838383\"/>\n<path id=\"Jammu &#38; Kashmir\" d=\"M120.5 86L119.5 87L118.5 87.5H117.5V86L118 85V84H117L115.5 85L114.5 84.5L113.5 81.5L112 81L110.5 81.5L109.5 82.5H108L107 83L105.5 81.5L104 80.5L102.5 80L101.5 79L101 78L100 78.5L99 78L97.5 78.5L94.5 80.5H92.5L92 81L91 81.5L92 83L93 84L92.5 85L91.5 86.5L90.5 87.5L89 88.5L87.5 89H85.5L84 88L83.5 87.5H82.5L82 88H81.5L81 87.5H80L79.5 88L78.5 87.5V86.5L78 86V84V83L77.5 82.5L77 83L76 83.5L75.5 84L74.5 83.5L73.5 82.5L71.5 81.5L70 80.5L68.5 80L67.5 79H66.5L67 78L66.5 77.5L66 76.5L66.5 75.5V74.5L67 74L66.5 73L66 71.5L66.5 70L66 68.5L65.5 67.5V66.5L65 65.5L64.5 64V63V61.5L65 60.5L65.5 59.5L67 59L68 58L68.5 57L70 56.5L71 56L71.5 54L72 53L71.5 52.5L70.5 51.5H69H68L67.5 50.5L68 49L68.5 48.5L68 47.5L66.7129 47H65.5L65 46.5H64L62.5 45.5L61.5 44.5L61 43L60.5 42.5L59.5 43L59 43.5L58 43H56L55 42.5L54.5 41.5L55 40L54.5 39L55 38H56L56.5 37L58 36.5L58.5 35.5L59.5 34.5L60.5 33.5V32.5L61 31.5H62L63.5 31L64 30.5H65L65.7989 31.5H67H68.5L69.5 30.5L68.5 29.5L67.5 29L68 28.5H69.5L70 29L71 29.5H72V29L74 28.5L75 27.5H76L77 27V27.5H77.5V26.5L78 25.5L79 26.5H79.5H80L80.5 27.5L81.5 28L82.5 27.5L83 27L84 27.5H84.5H85.5L86.5 28L86.7602 29V30.5V31.5L87.5 31L88 30.5H89.5L90.5 31L91.5 31.5L92 32.5V33.5L93 35V36.5L93.5 37.5L92 38.5V39.5L93.5 40L94 41L94.5 41.5L95 43H96L96.5 42.5H97.5L98 42H99L99.5 43.5L100.5 44.5L102 45L104 46L105 47H106.5H107.5L108.5 47.5H109.5H111L112 47L113 47.5L114.5 48L115 46.5L116 46L117.5 45H118.5L120 44L121 43L122.5 42L124.5 41.5H126.5L127.5 41H129.5L130 42H131L132 43.5L133 44L134 45.5L136 46L137 47L137.5 48.5H138.5L139.5 47L140 48L141 49L140 50V51.5L139 52.5V53.5L138.5 55.5L138 56L137.5 57.5L138 58.5L137 59H135L134.5 60.5L133 61.5L131.5 62L132 63L131.5 65L130.5 66.5L130 67.5H129L128 67L127.5 68H126.5L125.5 67.5L124.5 68L125 69L126 70.5L126.5 71.5L126 72.5L124.5 73L125 74L125.5 75L126 76.5L126.5 77L128 78H129.5L130 79V80L129.5 80.5L130 82L131 83.5L132 84.5V85.5L131 86L130.5 86.5H129.5V87H128L127.5 87.5L127 88.5L126 89H125L124 88L123 86.5V84.5L122 85.5L120.5 86Z\" stroke=\"#838383\"/>\n<path id=\"Rajasthan\" d=\"M117.5 157.5V158.5L116 160H115L113 161.5L110.5 163L108.5 163.5L104 167L102 168L100.5 169.5L99.5 170L98.5 172V174.5L99 175.5V176L100 176.5L101.5 177H103L103.5 177.5L104.5 177H105.5L106.5 176H107L107.5 177.5L108.5 178.5L108 179.5H105.5L105 180H104.5L103.5 179.5L102.5 180.5V181.5L103 182.5H101L102 183.5H103.5L104.5 185V186.5L103.5 187.5L102.5 186.5L102 188V189L103 190.5L102.5 191.5H101.5L100 190.5V189.5H99L98.5 190.5L98 190H96L95 189.5L94 190.5V191.5L91 194.5L89 195L87.5 194.5L87 193L88.5 192.5L89.5 193L90.5 192.5L90 191.5L89.5 191L90 190V188L91.5 186.5L91 185L90.5 184L90 183.5L89.5 184L88.5 184.5H87.5L87 185L86 184.5H85L84.5 184V183L86 182L85 181.5V181L85.5 180H83.5L83 181V182L82.5 182.5H81.5L80.5 182L80 182.5L81 183.5L82 184L81.5 185H80L79.5 186L78.5 187L80 187.5L79 188.5V190L80.5 190.5V192L81.5 193L81 194V197.5L79.5 198.5L78 199L77 200L76.5 201.5H78L79 202L78 203L77 203.5L74.5 204L73.5 202.5L72.5 203L72 201.5L70.5 201L69 200L67.5 199.5L66.5 198.5L67 197H65.5L64.5 195.5L64 194.5L64.5 193V192L64 191.5L63 193L61.5 191.5V189.5L62.5 188.5L61.5 188L61 187H60L59.5 188V189L57.5 188L56 187.5L55 186.5L54.5 187.5H54L53.5 186L50.5 185H50L49 185.5L48 185L46 185.5L45 185L43.5 184.5L41.5 185.5L38.5 184.5L39 184L38.5 182.5L37 181L36.5 180L37 179L36 178L35.5 176.5L34.5 175.5V173L34 172H33L32 172.5H31L30 171.5L29 170L28 168.5L28.5 167L29.5 166L29 165L29.5 163.5V162.5L28.5 161.5H26.5H25.5L24.5 161L22.5 160L21.5 159L22 158L21.5 157.5L22 156.5L22.5 155L23.5 153.5L25 152L27 150L27.5 148L28.5 146.5L29.5 145L31 144L32 143.5L33.5 144L34 145.5L35.5 147L37 147.5L38.5 146.5L40.5 145.5H42.5L45.5 145H47L48 144V142L49 141L50.5 140L52 138.5L52.5 137L53 135L54 134L55.5 133L56.5 132H57.5H58.5L60 131V129.5L61 128.5L61.5 127.5L62.5 126.5L63 125L64 124.5L63.5 123L64 121V119.5L65.5 119L67 118.5H68.5L69 117.5H70L69.5 118.5L70 119.5H72.5L74 119L76 120L77 121L76 121.5V122.5H77L77.5 122L78 122.5L77.5 125.5L77 126.5L77.5 127.5L78.5 128L79.5 127H80.5L81 128L82 128.5L83 129H84.5L85.5 128.5L86.5 129V130L86 131H87.5V132.5L87 134L87.5 135.5L88.5 137L90 138.5L91.5 139.5L92.5 141L93.5 142L92.5 143V144V145.5L93.5 146.5H95V145.5L94.5 144.5L95 144L95.5 144.5H96L96.5 144L97 143H97.5L98.5 144L99.5 144.5H100L100.5 143L101.5 142L102 141L103 141.5V143L103.5 144.5L102.5 145V146.215V148L103.5 148.5L104 148V147L104.5 146.5L105 147H106L107 146.5L107.5 148L107 149L107.5 150.5L108.5 151V152H110L111 153L110.5 154L110 155V155.5L111 156L111.5 156.5L110.5 157L109.5 157.5L108.5 158V159L109.5 159.5L110.5 159L111.5 158L112.5 157.5H114V158H115.5L116 157.5L116.5 156.5L117.5 157.5Z\" stroke=\"#838383\"/>\n<path id=\"Haryana\" d=\"M108.5 145.5L107 146.5L106 147H105L104.5 146.5L104 147V148L103.5 148.5L102.5 148V145L103.5 144.5L103 143V141.5L102 141L101.5 142L100.5 143L100 144.5H99.5L98.5 144L97.5 143H97L96.5 144L96 144.5H95.5L95 144L94.5 144.5L95 145.5V146.5H93.5L92.5 145.5V143L93.5 142L92.5 141L91.5 139.5L90 138.5L88.5 137L87.5 135.5L87 134L87.5 132.5V131H86L86.5 130V129L85.5 128.5L84.5 129H83L81 128L80.5 127H79.5L78.5 128L77.5 127.5L77 126.5L77.5 125.5L78 122.5L77.5 122L77 122.5H76V121.5L77 121L76 120H77.5L79 119.5H80L81.5 121L82.5 121.5V120.5L83 121V122H83.5L84.5 121.5V122.5L83.5 123.5L84.5 124.5H85.5L86 123L87 122H88L89 122.5L90 121.5H91L92.5 123L93.5 122.5L94.5 121.5L95.5 121V120H94.5V119L95 118L95.5 117.5L96.5 118L97.5 117.5L98.5 118L100 115L101 114L102 113.5L103 114L103.5 112L103 111H102.5L101.5 110.5L101 110V109.5L101.5 109V108H102.5L105 110.5L105.5 111.5V112.5H107L107.5 112L108 113L108.5 113.5H109.5L110.5 114V115.5L109.5 116.5L107 118.5L105.5 120.5L105 122.5L105.5 124.5V127.5L105 129.5L106 131L105.5 133L104.5 133.5L104 134L103 135.5L102 137.5L102.5 138H104L104.5 138.5H105.5H106.5L107.5 138L108.5 138.5L109.5 139.5L109 140.5L108.5 142.5L109 144L110 145L108.5 145.5Z\" stroke=\"#838383\"/>\n<path id=\"Uttar Pradesh\" d=\"M177.5 151.5H178.5V153.5L180 154L181 155V157L182.5 158L183.5 159L184 160.5L182.5 161H181L180 162L181 163.5L182.5 164.5L181 166V167L182 168.5L184 169.5H186L187 171L189 172L188.5 172.5L186 172H181.5L180 173L177.5 176L174.5 177.5L173 179L173.5 181L173 183.5L174.5 184.5V186H174L173.5 186.5L172.5 187L173 188L174 189L173.5 190.5V191.5L172 192V194L171 194.5H169.5L168 194L167 193V191.5L167.5 190.5L167 189.5L167.5 189V188L167 187V186L167.5 185.5L167 184.5H165.5L164.5 185H163.5L163 184.5L162 185.5L161 184L160 183H158.5L157 182L156.5 181L155 180H154V178.5H152.5V179.5L151.5 179H150.5L150 180.5L149.5 181.5L148 182L146.5 181.5L145.5 180.5L145 179.5H144L143.5 179L142.5 179.5L142 181H141.5L140.5 180.5H139.5L140 179.5L141 178L140 177L139.5 175.5L138.5 176.5L137 177L134 180L133 179H132L131.5 180H131L130.5 179V177.5L129.5 177L129 177.5V178.5L129.5 179L128.5 179.5H127L126.5 178.5L126 178L125 179V178L124 177.5V177L124.5 176.5L125 177L125.5 176V174.5L125 174L124 174.5L123.5 175.5L122.5 176H121V178L121.5 178.5V180L122 180.5L122.5 182L123.5 183V184L123 184.5V185.5L123.5 186L124.5 185.5L125.5 186V187L125 188.5L124.5 189.5L123.5 190.5L122.5 190H121.5L121 189L120.5 188.5H120L119.5 190L118.5 189L119 188.5L118.5 187.5H118L117 186.5L117.5 185.5V184L116.5 183L117 182L118 181L119 179V177.5L118.5 176.5L118 176L120.5 173.5H121.5L122.5 173L123.5 172L124 170.5L125 169V167.5L126 167L125.5 166.5L126 165.5L127 164.5L126.5 163L125.5 161.5L125 160L124 159.5L122.5 159L121.5 159.5H121L120 159L118.5 158L117.5 158.5V157.5L116.5 156.5L116 157.5L115.5 158H114V157.5H112.5L111.5 158L110.5 159L109.5 159.5L108.5 159V158L111.5 156.5L111 156L110 155.5V155L111 153L110 152H108.5V151L107.5 150.5L107 149L107.5 148L107 146.5L108.5 145.5L110 145L109 144L108.5 142.5L109 140.5L109.5 139.5L108.5 138.5L107.5 138V136L106.5 135.5V134.5L106 133.5L105.5 133L106 131L105 129.5L105.5 127.5V124.5L105 122.5L105.5 120.5L107 118.5L109.5 116.5L110.5 115.5V114L111.5 114.5L112 115L113 115.5V116H114L113.5 117L113 117.5L111.5 120.5L112 122H112.5V121.5L113 121L114 121.5L115.5 123H116.5L118 121.5H118.5L119.5 122H120.5L121.5 123L123 124L124 124.5L125 125.5L124.5 126.5L123 128L124.5 129.5L125.5 130L126.5 129.5L127.5 130.5V131.5H128.5L130 132V132.5H132L133 133.5L134 133H134.5L135 133.5H136.5L137 133L138 134L139.5 135L140.5 136L142 136.5V135.5L143 135L144 136L145.5 137L147.5 139L149.5 139.5L150.5 141L152.5 142.5L155.5 144.5L156.5 145.5H158L159 144.5L160.5 146L162 147.5L163.5 148.5L164.5 148L165.5 147.5L166.5 148L167 150H169V150.5H171L172 151.5L172.5 152.5H173.5V151.5L174 150H175.5L177 150.5L177.5 151.5Z\" stroke=\"#838383\"/>\n<path id=\"Delhi\" d=\"M106 133.5L105.5 133L104.5 133.5L104 134L103 135.5L102 137.5L102.5 138H104L104.5 138.5H106.5L107.5 138V136L106.5 135.5V134.5L106 133.5Z\" stroke=\"#838383\"/>\n<path id=\"Assam\" d=\"M273 157.5H269L268.5 158L267.5 157.5L266.5 158.5L266 158L265 158.5L263 159L262 158H261L260.5 159H259.5L258 158.5L253 159.5L252 159L251 158L250 157.5H249L247 159.5H246L246.5 161L246 163.5V165L245 166H243L242 166.5L243 168L244 169V174L245 173.5L246 172.5L246.5 171.5L247.5 170.5H249L250.5 170L252.5 169.5L253.5 169L255 170H258.5L259.5 170.5L261 171L262.5 170.5L264 169H264.5L265.5 169.5L266 168.5H267.5V168H270.5V168.5L270 169.5L269.5 171V172L270 172.5L272 171.5L273.5 172.5L274.5 173L276 173.5L275.5 174.5H274.5V175.5L276 177V178L274 179.5L272.5 180.5L273 181L272.5 181.845L272 182.5H271L270.5 183V184L270 184.5V185.5L270.5 186.5L271 187V189.5L272.5 189V190L273.5 191L275 189.5L276 187.5H276.5L277 188.5L277.5 189H279.5V184L280.5 183L281 182L282 180.5L282.5 178.5L283.5 177.5L284 176L283.5 175L282.5 174V173.5H283.5L284 172.5L285 171.5L286.5 171L288 170L289 169V167.5L289.5 166.5L291.5 165L292.5 163.5L293 162L294.5 160.5L296 159.5L297 160L298.5 159.5L299.5 159L300.5 158H301.5L302.5 157.5L303 157L304 156.5L306 155L306.5 153.5H307.5H308.5L310 153L311.5 151.5V150.5L310 150L309.5 148.5V147L310 146L311 145.5L310 144.5H307.5L306 145.5L303.5 146L301.5 147H299L298.5 147.5L298 148.5H296L295 149V149.5H293.5L292.5 149H292V151L290 152.5L288.5 154.5L286 157L284.5 157.5H283L281.5 158L280 157.5L278.5 157L277.5 156.5H275L274.5 157H273V157.5Z\" stroke=\"#838383\"/>\n<path id=\"Arunachal Pradesh\" d=\"M266 147.5H264L263.5 148V149.5L265 151H266.5L267 150.5L268 151L269 152V153.5L268 154V155L269 156V157V157.5H273V157H274.5L275 156.5H277.5L278.5 157L281.5 158L283 157.5H284.5L286 157L288.5 154.5L290 152.5L292 151V149H292.5L293.5 149.5H295V149L296 148.5H298L298.5 147.5L299 147H301.5L303.5 146L306 145.5L307.5 144.5H310L311 145.5L310 146L309.5 147V148.5L310 150L311.5 150.5V151.5L310 153L308.5 153.5H306.5L306 155L304 156.5L303 157L303.5 157.5L303 158.5V160.5H305L306.5 159.5L308 158L309 156.5L310.5 156L311.5 154.5L314 153.5L316.5 152.5H319L320.5 153.5L321.5 154.5L323 155H324.5L323.5 153.5L321.5 151L321 149L322.5 147.5L325 146L326.5 144.5L326 143.5V141.5L324 140L322.5 139.5L321 140H320L319 138.5L318 138L317 139L316.5 139.5L315.5 138L316 137L317 135.5L318 134.5L317.5 134V132L316 131L315 130L314.5 131L315 131.5L314 132.5L313.5 131V130L315 129L314 127.5L312 126L310 127.5L306.5 129L303.5 130H301L299.5 129L297 128L295.5 128.5L294 129.5L292 131L290 132.5L288.5 134.5L286.5 135.5L283.5 136H282L281 138L280.5 139.5L278.5 141L276 142.5L275 144L274.5 145L274 146H273L272.5 146.5L271 146H270L268 147H266.5L266 147.5Z\" stroke=\"#838383\"/>\n</g>\n<g id=\"International\">\n<path id=\"Bangladesh\" d=\"M271.5 229.5V231.5L271 230L268 227L268.5 225.5L268 224.5L267 223.5V222.5L268 221.5V219.5L267 218V215.5L266 214L264 210L263 209L262.5 208L262 209L262.5 210L263 211.5L262.5 212H262L261 211V209L261.5 208.5L262 207.5H260.5L259 207L257 206.5L256.5 207.5L257 208.5L257.5 209L257 210L258 210.5L258.5 211V212L259 213V214H258.5L257.5 214.5L257 213L257.5 211.5L256.5 209.5L254.5 207.5L255 207H256L256.5 206.5L255 206L253 205L252 203L252.5 201.5L251.5 200L251 199.5L250.5 200.5L251 201.5V203L250.5 204V205L252 205.5L253.5 207L254.5 209L255.5 211.5L255 213L254 215L253.5 215.5L253 215V213L253.5 210L252.5 208.5V207L252 207.5L251 207V206L250 205.5H249L249.5 206L250.5 208L251.5 208.5V209.5L252 211L252.5 212L252 214V216.5L251.5 217L250.5 216.5H250L249 218L248 219H247.5L246.5 218.5L246 218V217L245 216.5L244 217L243.5 218L242 218.5L241.5 219L241 219.5H239.5L238.5 218.5L237 220H236L235.5 219V218L236 216.5L235.5 215.5L236 214.5L235.5 213.5L235 212V210.5L234 210L234.5 209V206L233.5 205V204L234.5 203V202L231.5 201L232 200.5L232.5 199L230.5 197.5V196L230 195.5V195L231.5 194L232.5 193V192L232 191.5V189.5L229 188.5L226 186.5L225 185.5L224.5 184.5L225 183.5L225.5 183L226 182L226.5 181.5L227 182.5L228.5 181L229 180V179L229.5 178H232L232.5 178.5H233L233.5 179L234.5 178L235 177H233.5L233 176L233.5 175L232.5 174.5L231.5 175L230 173.5L228.5 172.5L227 171H225.5L225 170L226 168L227.5 166.5L228.5 165L229 164.5V163.5L228.5 163V162L229 161.5L230 163L231 164L232.5 164.5L234 165.5H235L234.5 164.5V163.5L235 163L236 163.5L235.5 164.5V165.5L236.5 166.5L238.5 168L240 169H241L241.5 167.5L242 166.5L243 168L244 169V174L243.5 175L244 177L246 177.5L247.5 178.5H249L250 179H252.5L256.5 178.5H260.5L262.5 179.5H264.5L265.5 179H267V178.5H268.5L269.5 179L271 180L272 180.5H272.5L273 181L272 182.5H271L270.5 183V184L270 184.5V185.5L269 186.5L269.5 187.5L269 188.5L268.5 188H267.5L267 189V190L266.5 190.5V191L266 190L265.5 189.5V190.5L265 191L264 190V191L263 192H262.5L262 191.5H261V193H260L259.5 194L259 195.5L258 196.5L258.5 197.5L259.5 198.5V201.5H260V203L260.5 204H261V203L261.5 202L262 202.5L262.5 203.5V204.5L263.5 205L264 204.5H265L265.5 204V202.5L266 200.5L267 199.5L267.5 198.5V198L267 197.5V196.5L267.5 196L268 197H268.5L269 196.5L270.5 196V198L271 198.5L271.5 199.5V201L271 202V203.5L271.5 204L272 205.5L272.5 206.5V208L273 208.5V210L273.5 210.5V212L274 212.5V214L274.5 215.5V216.5V219.5L274 220L274.5 220.5V222.5L275 223V224H275.5L275 224.5L274.5 225H274L273.5 224H273L272.5 223H271.5L270.5 223.5V224.5L270 225V226L269.5 226.5L270 227.5L271 228.5L271.5 229.5Z\" stroke=\"#0FBB00\" stroke-width=\"2\"/>\n<path id=\"Pakistan\" d=\"M-1 185.5V103H0.5H2V102.184L2.7467 101.5L1.5 101L0.5 100L1 99.5L2 100L2.7467 99L4 98.5L5.5 98L6.5 96.5L8 96L8.5 96.5L10 97L11 97.5L11.5 97L10.5 96H11H11.5L13 97L14 98.5L15 99L15.5 98H16.5L17.5 97L18.5 96L20.5 94.5L19.5 93.5V91L19 88L19.5 87L21.5 85L21 83.5V83L22 82.5L21.5 81.5L22 80.5L23 79L26 79.5L27.5 78.5L29.5 77L30.5 75.5L29.5 74V72.5L29 71H27L26 69V67.5L27 66.5L28.5 67.5L31 68L34 68.5L37 68L39.5 66L40.5 63.5L39.5 62L38 61L38.5 60L39.5 59.2189V57.5H41L41.5 56L43.7322 54L45.5 52.2909V51.5L44.5 50.5L44 50L45 49L45.5 48L44.5 47.5L45 46.5H43.7322V45.5L44 44.5L43.7322 43L42.5 41.5L40.5 40.5V39.5L42 38.5L43.7322 37L44.5 35.5L45 34L46 34.5L47.5 35.5L47.7492 33.5L49 32.5L51.5 31L54.5 30.5L56 29L59.5 29.5L61.5 29H64L65.5 28.5L67.5 29L68.5 29.5L69.5 30.5L68.5 31.5H66L65 30.5H64L63.5 31L62 31.5H61L60.5 32.5V33.5L58.5 35.5L58 36.5L56.5 37L56 38H55L54.5 39L55 40L54.5 41.5L55 42.5L56 43H58L59 43.5L59.5 43L60.5 42.5L61 43L61.5 44.5L62.5 45.5L64 46.5H65L65.5 47H67L68 47.5L68.5 48.5L68 49L67.5 50.5L68 51.5H70.5L72 53L71.5 54L71 56L70 56.5L68.5 57L68 58L67 59L65.5 59.5L64.5 61.5V64L65 65.5L65.5 66.5V67.5L66 68.5L66.5 70L66 71.5L66.5 73L67 74L66.5 74.5V75.5L66 76.5L66.5 77.5L67 78L66.5 79H67.5L68.5 80L70 80.5L71.5 81.5L73.5 82.5L74.5 83.5L75.5 84L76 83.5L77 83L77.5 82.5L78 83V86L78.5 86.5V87.5L79.5 88L80 87.5H81L81.5 88H82L82.5 87.5H83.5L84 88L85.5 89V89.5L86 90.5L86.5 91L85.5 91.5L84 92.5H83L81 93L80 93.5L79.5 94.5H78.5L77 96L76.5 97.5L77 98.5L77.5 100L77 102L76 103.5L77 104.5L78.5 105.5L77.5 106L77 105.5L76 107.5L74 109.5L73 111L71 112L70.5 113.5L69.5 114V115L70 116L70.5 116.5L70 117.5H69L68.5 118.5H67L64 119.5V121L63.5 123L64 124.5L63 125L62.5 126.5L61.5 127.5L61 128.5L60 129.5V131L58.5 132H56.5L55.5 133L54 134L53 135L52.5 137L52 138.5L50.5 140L49 141L48 142V144L47 145H45.5L42.5 145.5H40.5L38.5 146.5L37 147.5L35.5 147L34 145.5L33.5 144L32 143.5L29.5 145L27.5 148L27 150L23.5 153.5L22.5 155L22 156.5L21.5 157.5L22 158L21.5 159L22.5 160L25.5 161.5H28.5L29.5 162.5V163.5L29 165L29.5 166L28.5 167L28 168.5L30 171.5L31 172.5H32L33 172H34L34.5 173V175.5L35.5 176.5L36 178L37 179L36.5 180L37 181L38.5 182.5L39 184L38.5 184.5L38 186L38.5 187L36.5 189L36 190H34.5L33.5 189V188L33 187.5L31 188.5H30L29 189L27.5 190.5L26 191L24.5 190.5L23 189.5L21.5 189L18.5 190L18 189.5L17 190L14 189V191.5L13.5 192.5L12.5 193L10 192.5L8 194.5V195.5L7.5 197L6.5 196.5V196L5.5 194.5H4.5H2.5L2 194H1V193L1.5 192.5V191.5L0.5 190.5V188L-1 185.5Z\" stroke=\"#FE4236\" stroke-width=\"2\"/>\n<path id=\"China\" d=\"M80.5 24L81 23.5H81.5L82.5 23L83 22.5L83.5 21.5V21L83 20H82L81 19V17.5L82 17L81.5 16.5L81 16V14.5L81.5 14L81 13L80 12V11V10L79.5 9L80 8.5L80.5 8V7L80 6.5L79.5 6H78.5L78 5.5H77V5H76.5L76 4.5H74V4H73L72.5 4.5L72 5L71.5 5.5V6H69.5L69 5.5L68.5 4.5V2.5L68 2V-1.5H328V142.5L324 140L322.5 139.5L321 140H320L319 138.5L318 138L316.5 139.5L315.5 138L316 137L317 135.5L318 134.5L317.5 134V132L316 131L315 130L314.5 131L315 131.5L314 132.5L313.5 131V130L315 129L314 127.5L312 126L310 127.5L306.5 129L303.5 130H301L299.5 129L297 128L295.5 128.5L294 129.5L290 132.5L288.5 134.5L286.5 135.5L283.5 136H282L281 138L280.5 139.5L278.5 141L276 142.5L275 144L274 146H273L272.5 146.5L271 146H270L268 147H266.5L266 147.5H264L264.5 146L264 145L263 144L261.5 143.5L259.5 143L258.5 143.5L257.5 144.5L256 143.5L254.5 143L253.5 142.5L253 143H250V141.5L249.5 140.5H248L247.5 140H245.5L245 140.5L243 142L241 143L239 144.5L238.5 146L238 146.5L237 147L236.5 148L234.5 151L235 152.5L234 153V152.5L233 151V148.5L233.5 146.5V144.5L231 142L229 144H227L225.5 144.5V145.5H223.5L222.5 146.5H221.5L220.5 146L220 145.5L219 146H216.5L215.5 146.5L213.5 144.5L212 144L211.5 143.5L209 142.5L208.5 143L207.5 145H206.5L206 144.5H205L204 142.5H203V144L203.5 144.5L203 145.5H202.5L201.5 144L200.5 142L199 140.5V139.5L198.5 140L197.5 140.5L196.5 140L195 140.5L193 139.5V138L192.5 137L193 136L192.5 135.5L191.5 136L190.5 137H189L188.5 136.5L188 135.5L187 135H186L185.5 135.5L184.5 134.5L184 133L183 132.5L182.5 133L182 131.5V130.5L182.5 130L182 128.5L180.5 128H179L177 129L176.5 129.5L175.5 129H175L174 127L171 124L169 123.5L167 122L166 120.5L164.5 120L163 119L161 118L160 116V115H158L157 114.5H156L154.5 113.5L153.5 114.5L152.5 114L151.5 115V117L150.5 117.5V118.5H149.5L148.5 118V117L148 116L147 115H145.5L144.5 114.5L143.5 113H142.5L142 112.5H140L138.5 111.5L139 110.5L138.5 109.5L137 109L136 107.5L134.5 106.5H133.5L132.5 107L131.5 106.5L129.5 105L128.5 103L127 101H126L125 102L124.5 103L123.5 102.5L123 101.5V100L124 99L123.5 98L122.5 97V96L123 95.5V94L121.5 92L120.5 91.5L120 90.5V88L119.5 87L120.5 86L122 85.5L123 84.5V86.5L124 88L125 89H126L127 88.5L127.5 87.5L128 87H129.5V86.5H130.5L131 86L132 85.5V84.5L131 83.5L130 82L129.5 80.5L130 80V79L129.5 78H128L126.5 77L126 76.5L125.5 75L124.5 73L126 72.5L126.5 71.5L126 70.5L125 69L124.5 68L125.5 67.5L126.5 68H127.5L128 67L129 67.5H130L130.5 66.5L131.5 65L132 63L131.5 62L133 61.5L134.5 60.5L135 59H137L138 58.5L137.5 57.5L138 56L138.5 55.5L139 53.5V52.5L140 51.5V50L141 49L140 48L139.5 47L138.5 48.5H137.5L137 47L136 46L134 45.5L133 44L132 43.5L131 42H130L129.5 41H127.5L126.5 41.5H124.5L122.5 42L121 43L120 44L118.5 45H117.5L116 46L115 46.5L114.5 48L113 47.5L112 47L111 47.5H108.5L107.5 47H105L104 46L102 45L100.5 44.5L99.5 43.5L99 42H98L97.5 42.5H96.5L96 43H95L94.5 41.5L94 41L93.5 40L92 39.5V38.5L93.5 37.5L93 36.5V35L92 33.5V32.5L91.5 31.5L89.5 30.5H88L87.5 31L86.5 31.5V29V28L85.5 27.5H84L83 27L82.5 27.5L81.5 28L80.5 27.5L80 26.5H79L78 25.5L77.5 26.5V27.5H77V27L76 26.5L75.5 25.5L76 24.5L78 23.5L78.5 23L79.5 24H80.5Z\" stroke=\"#61D8C2\" stroke-width=\"2\"/>\n<path id=\"Bhutan\" d=\"M244.5 159L246 159.5H247L248 158.5L249 157.5H250L251 158L252 159L253 159.5L255.5 159L258 158.5L259.5 159H260.5L261 158H262L263 159L265 158.5L266 158L266.5 158.5L267.5 157.5L268.5 158L269 157V156L268 155V154L269 153.5V152L268 151L267 150.5L266.5 151H265L263.5 149.5V148L264 147L264.5 146L264 145L263 144L261.5 143.5L259.5 143L258.5 143.5L257.5 144.5L256 143.5L254.5 143L253.5 142.5L253 143H250V141.5L249.5 140.5H248L247.5 140H245.5L245 140.5L243 142L241 143L239 144.5L238.5 146L238 146.5L237 147L236.5 148L235.5 149.5L234.5 151L235 152.5L234 153L233.5 153.5L232.5 154L234 156.5L236.5 158.5L238.5 158L240 158.5L240.5 159H241.5L242.5 160L244.5 159Z\" stroke=\"#B78499\" stroke-width=\"2\"/>\n<path id=\"Afganistan\" d=\"M-1 103.5V24L0.5 23.5L1 24H2L2.5 24.5H3.5L3 25.5L3.5 26L4 27H4.5L5 27.5L5.5 28L6.5 27.5L7 27H8L8.5 27.5V26.5L9 26H10L10.5 25.5L11 25L13 24L14 23.5L15.5 23H16H16.5L17 24L17.5 25L18.5 26H19.5L20 25H20.5L21 24.5V24L20.5 23L21 22L20.5 21V20.5L21.5 20L22.5 19L24 19.5H26.5L27.5 20H28.5H29L29.5 19.5L30 19L30.5 18V16.5L30 16L29.5 15.5V15L29 14.5L29.5 14H30.5L31 13.5L31.5 13L32.5 12L33 11.5L33.5 10.5V9.5L34.5 9L35 7.5H36L36.5 7L37 7.5L37.5 7H38.5L39 7.5L40 8.5L40.5 9L41.5 9.5L42 10.5L41.5 11.5L41 12.5V13L40.5 14L41.5 14.5H42.5L43 14H44L44.5 14.5L45 15.5L44.5 16V17L44 17.5L43.5 18V19.5L44 21L43.5 23.5L43 24.5L42.5 25L43 26.5V28L43.5 29L44 30L45 30.5L45.5 31.5H46.5L47 32L47.5 31.5L48 31L49 30.5L50 29.5H51L51.5 28.5L52.5 28H54V27.5H55.5L56.5 27L57.5 25.5L58.5 24.5L59.5 23.5L61 23L61.5 22L63 21H65L65.5 20.5L66 21H67.5L68 21.5L68.5 22L68 22.5L67 23L66.5 23.5L67.5 24L68.5 24.5L69.5 24L70.5 23.5H72L72.5 23L73.5 22.5L74.5 21.5H75.5L76.5 22L78 21.5L79 22L80 22.5L80.5 23.5H81L80.5 24H79.5L79 23.5L78.5 23L78 23.5L77 24L76 24.5L75.5 25.5L76 26.5L77 27L76 27.5H75L74 28.5L72 29V29.5H71L70 29L69.5 28.5H68L67.5 29L65.5 28.5L64 29H61.5L59.5 29.5L56 29L54.5 30.5L51.5 31L49 32.5L47.5 33.5V35.5L46 34.5L45 34L44.5 35.5L44 37L42 38.5L40.5 39.5V40.5L42.5 41.5L44 43V44.5L43.5 45.5V46.5H45L44.5 47.5L45.5 48L45 49L44 50L45.5 51.5V52.5L41.5 56L41 57.5H39.5V59.5L38.5 60L38 61L39.5 62L40.5 63.5L39.5 66L37 68L34 68.5L31 68L28.5 67.5L27 66.5L26 67.5V69L27 71H29L29.5 72.5V74L30.5 75.5L29.5 77L27.5 78.5L26 79.5L23 79L22 80.5L21.5 81.5L22 82.5L21 83V83.5L21.5 85L19.5 87L19 88L19.5 91V93.5L20.5 94.5L18.5 96L16.5 98H15.5L15 99L14 98.5L13 97L11.5 96H10.5L11.5 97L11 97.5L10 97L8.5 96.5L8 96L6.5 96.5L5.5 98L2.5 99L2 100L1 99.5L0.5 100L1.5 101L3 101.5L2 102V103H0.5L-1 103.5Z\" stroke=\"#D8CC61\" stroke-width=\"2\"/>\n<path id=\"Coast_Line\" d=\"M-1 400V186L0.5 188V190.5L1.5 191.5V192.5L1 193V194H2L2.5 194.5H5.5L6.5 196V196.5L7.5 197L8 197.5H9L9.5 197L10 196L11 195V194H11.5V195H12.5L13 194.5H14L13.5 195L12 196L11 197V198.5L12.5 200.5V201L12 202L13 203L17 205.5L19.5 206.5L22.5 207.5H23.5L27.5 205.5H28.5L29 205V204L29.5 203.5V203H30V205H31V204L30.5 203.5L31.5 204H33L32.5 205V205.5L31.5 206L31 207L30 208L29.5 209.5L29 210L28 210.5L27 210L26 211.5H25L24.5 211L23 212.5L22 212L20 213L18.5 213.5L18 212.5L18.5 211.5L17.5 212H17V211L16 212V213L17 214.5L18 216.5L20 218L22 220L23.5 222L25 223L28.5 226.5L31.5 229L33 230.5L35 231.5H37L37.5 231H38.5L38 231.5L39.5 231L42.5 229.5L44 228.5H45.5L47 227.5L48 227H49L50 226V224.5L51 223.5L52 221.5L52.5 221L51.5 220L52 219.5L51.5 218L52.5 215L53 214L52.5 213L53 212L53.5 213.5H54.5L55.5 213H56.5L58 213.5L57 214H56L55 216V217.5L55.5 217L56.5 216.5H57L56.5 217.5V218L55.5 220H57L58 220.5L57 221V222.5L56 223.5L57 224V225L56.5 225.5L57 226.5H58L58.5 227.5V229L59 230V231.5L58.5 232.5L59 234L58.5 234.5L59.5 235L58.5 236L58 235V236.5L57.5 237.5L58 238H57.5L56.5 240L57 241.5V244.5L58 245.5L59 245V245.5L58 246L57.5 246.5V247L58.5 247.5H59L58.5 248H58V251L58.5 251.5H59L59.5 250.5V250L60 250.5L61 251L60 252H59.5V253L60 253.5L59 254H58.5L59 254.5V255.5L60 256.5L59.5 257H59V258L59.5 258.5L60 259.5V260L59.5 260.5V261.5L60.5 262L61.5 265V267.5L62 268V271L62.5 271.5L62 273L63 273.5V275L63.5 276V277L64 278V279.5L65 282.5V284.5L65.5 285.5L66 287L67.5 288.5V289.5L68 290V290.5L68.5 291.5L69 292H69.5L69 292.5L70 293.5V295.5L70.5 296L71 297H71.5V298L72.5 298.5V299.5L74 301L75 302.5L75.5 303.5V305.5L76 306.5V307.5L77 309L78 311V311.5L78.5 312V313.5L79 314.5V316.5L79.5 317L79 318.5L79.5 319V320.5H80L80.5 322.5L81 323V324L82 325L83 328L83.5 329L84.5 330.5H85L86 332L86.5 333H87L90 338L90.5 339.5L91 342L92 344L93 345.5L94 349L97 355L96.5 355.5V358L97 357V356L97.5 356.5V357.5L97 358.5H96.5V359.5L98 362.5L98.5 364H99.5L100 364.5L99 365L99.5 366L101 367.5L103 370.5L105.5 373L107.5 374L109 374.5L110.5 374L112.5 373L115.5 371L116.5 369.5V366.5L117.5 364L119 363L122 362L124 361.5H128L128.5 362H129.5L129 361H126L125 360V358L125.5 356.5L128 354V352.5L128.5 351L129 350H130L131 349.5L132.5 349L133 350L135 349V345L134 344L135 342L134.5 340.5V338L134 336V333.5L134.5 332.5L135 330.5L136 328.5L137.5 326.5L138.5 325L139 323.5L139.5 322.5V319.5L140 317.5V315.5L139.5 315L138.5 314.5L138 314L137.5 312.5L138 311.5L139 312.5V311.5L139.5 311L139 310.5L138 308.5V305.5L139 303.5L137.5 299L137 298.5V295L139 291L139.5 289.5L140.5 288.5L141.5 288H142.5L143 287.5L144.5 287L145.5 287.5L146.5 288.5L147.5 287.5L148.5 287L149.5 285.5V284.5L150 284V283L150.5 282.5V282L151 281.5L152 281L152.5 281.5L153 281L155 281.5L155.5 281H157.5L158.5 280.5L159.5 279L161.5 278V277L161 276L161.5 275L162.5 273.5L164 272L171.5 267.5L173.5 265L176.5 262L182.5 259V258L183 257.5V257L184.5 256L185.5 255L186.5 253.5L187.5 252.5L188 251.5L189 250.5V249L194.5 245L193 245.5L192.5 245L193 244L194.5 242.5L195.5 241H197L197.5 242L195 244.5L197 243.5L202 241.5H204L206.5 239.5L208 238L209.5 236L210 234.5L212 233L213 232V231L212.5 230L212 228.5V227.5L211 226.5L211.5 225L212.5 223.5H213.5L214.5 222H215.5L216 221.5H217.5L218.5 221L219.5 220.5H220.5L222.5 219.5L224.5 217.5L225 216.5L226 217V218.5L227 220.5V221H227.5L228 220L229 219.5L229.5 221L230.5 220.5L231.5 221H233V220L233.5 219.5L235 220H236H237L237.5 219.5L238 219L238.5 218.5L239.5 219.5H241L241.5 219L242.248 218.5L243.5 218L244 217L244.884 216.5L246 217V218L246.5 218.5L247.5 219H248L249 218L250 216.5H250.5L251.5 217L252 216.5V215V214L252.5 212L252 211L251.5 209.5V208.5L250.5 208L249.5 206L249 205.5H250L251 206V207L252 207.5L252.5 207V207.5V208.5L253.5 210L253 213V215L253.5 215.5L254 215L254.5 214L255 213L255.5 211.5L254.5 209L253.5 207L252 205.5L250.5 205V204L251 203V201.5L250.5 200.5L251 199.5L251.5 200L252.5 201.5L252 203L252.5 204L253 205L255 206L256.5 206.5L256 207H255L254.5 207.5L255.5 208.5L256.5 209.5L257 210.5L257.5 211.5L257 213L257.5 214.5L258.5 214H259V213L258.5 212V211L258 210.5L257 210L257.5 209L257 208.5L256.5 207.5L257 206.5L259 207L260.5 207.5H262L261.5 208.5L261 209V210V211L262 212H262.5L263 211.5L262.5 210L262 209L262.5 208L263 209L264 210L265 212L266 214L267 215.749V218L268 219.5V221.5L267 222.5V223.5L268 224.5L268.5 225.5L268 227L269.5 228.5L271 230L271.5 231.5L273.5 232.5L274 233.5L275.5 235.5L277 236L276.5 237.5L277 238.5L278.5 239.5L279.5 240L280 239.5L281 239H282L283 239.5V240.5H284L286 241L286.5 242.5V244L287.5 244.5L289.756 246.5L289.5 247L288.5 246.5L287.5 245.5L286 245V246L287 247L288.5 248L288 249L286.5 248.5L286 247.5L284 246.5L284.5 248L285.5 249L286 251L288 252L289 252.5V251L289.5 249H290.5L290 252L290.5 253L292 254V255.5L292.5 256.5L293.5 258L294 259L293.5 260L294.5 261V263H295V265H295.5V268L296 268.5V271L295 273L294.5 274.5L294 276.5V277.5L293 279.5L292 281.5L292.5 283.5L292 285.5L292.5 286L293.5 285L294.5 284L295 284.5V285L294.5 285.5L294 286.5L294.5 287L295 286.5H296L296.5 285.5L297 286L297.5 287.5L299 288L300 288.5L300.5 288L301 287.5V286L302 286.5V288L302.5 288.5L303 287.5H303.5L304 288L304.5 289H306.5L307 288L307.5 287L308 285.5L309.5 283.5L310.5 283L311 281.5L311.5 282L312 282.5L313 282L314 281.5L315 281L314.5 280L314 279.5V278.5H315L315.5 279.5L316 280H317L317.5 279.5H318L318.5 279L319.5 278.5L320.5 277.5V276.5L321 275.5L321.5 274V273L321 272V271V269.5L322 270L323 271.5L324.5 274L328 275.5V400H-1Z\" stroke=\"#05B6C1\" stroke-width=\"2\"/>\n<path id=\"Srilanka\" d=\"M138 355L136.5 355.5H136V356.5L136.5 357H137.5H139L139.5 357.5L140.5 358.5L142 359.5H140.5H139.5V358.5H138.5V359L138 359.5L137.5 360L138 361V362L137.5 363L136.5 363.5V365L136 364L135 363.5L134 363H133L133.5 363.5L134.5 364L135.5 364.5L136 365.5L136.5 367L136 368L135 370L134 372.5L134.5 376V380V384.5L135 387L135.5 389.5L136.5 391.5V393L137.5 395.5L139 396.5L141 397.5L143 398L144.5 397.5L145 397H146.5L148.5 396.5L150 395H152L153 393.5L154.5 392.5L156 391.5L155.5 390L156.5 389V387.5L157 387V386L156.5 385V383.5L157 383L156.5 382L156 381L155.5 380L156 379.5L155.5 379L154.5 378.5L154 378V377L153 375L151.5 374L152 372.5L151.5 370.5V370L150.5 370.5H149.5L148.5 369.5L149 368.5V367L148.5 365.5L147.5 364.5L147 365.5L146.5 364.5V363L145.5 362L144 360L142.5 359L141.5 358.5L140.5 357.5L139.5 356.5L139 355.5L138 355Z\" stroke=\"#838383\"/>\n<path id=\"Nepal\" d=\"M148.5 118V117H147.5L147 116.5H146V117.5L144 119.5H143V121L142 121.5L141 122L140.5 123L141 123.5L139.5 126.5V127L140 127.5V128.5L139.5 129V130H138.5V130.5L138 131.5L137 132.5V133L138 134L139.5 135L140.5 136L142 136.5V135.5L143 135L144 136L145.5 137L147.5 139L149.5 139.5L150.5 141L152.5 142.5L155.5 144.5L156.5 145.5H158L159 144.5L162 147.5L163.5 148.5L165.5 147.5L166.5 148L167 150H169V150.5H171L172 151.5L172.5 152.5H173.5V151.5L174 150H175.5L177 150.5L177.5 151.5H178.5L179.5 150.5L181 151L181.5 150L184.5 152L186.5 152.5H187.5L188 154V155.5L189.5 156L190 157L192 158L193.5 158.5L194 159.5L195.5 159L196.5 158.5L198 158L199 159L199.5 160.5L200.5 161.5L202 161L203 160.5L203.5 161H205.5L206 161.5H207.5L208 162L210 163H211L212 162.5L212.5 162L213.5 161.5L214.5 163.5L215.5 163L216.5 164L218.5 163L219 163.5L220 164L221 163.5L221.5 163L222.5 163.5V163L224.5 164L225 163.5L225.5 162.5L225 161L225.5 160L226 159.5L225 156.5L224 155V153.5L224.5 151V149.5L225.5 147L226 146L225.5 145.5H223.5L222.5 146.5H221.5L220.5 146L220 145.5L219 146H216.5L215.5 146.5L214.5 145.5L213.5 144.5L212 144L211.5 143.5L210.22 143L209 142.5L208.5 143L208 144L207.5 145H206.5L206 144.5H205L204.5 143.5L204 142.5H203.193V144L203.5 144.5L203.193 145.5H202.5L201.5 144L200.5 142L199.264 140.5L199 139.5L198.5 140L197.5 140.5L196.5 140L195 140.5L194 140L193 139.5V138L192.79 137V136L192.5 135.5L191.5 136L191 136.5L190.5 137H189L188.5 136.5L188 135.5L187 135H186L185.5 135.5L184.5 134.5L184 133L183 132.5L182.5 133L182 131.5V130.5L182.5 130L182 128.5L180.5 128H179L178 128.5L177 129L176.5 129.5L175.5 129H175L174 127L172.5 125.5L171 124L169 123.5L167 122L166 120.5L164.5 120L163 119L161 118L160.5 117L160 116V115H158L157 114.5H156L154.5 113.5L153.5 114.5L152.5 114L151.5 115V116V117L150.5 117.5V118.5H149.5L148.5 118Z\" stroke=\"#932CA4\" stroke-width=\"2\"/>\n<path id=\"Mayanmar\" d=\"M324.5 274L328.5 276V144.5H326.5L325 146L322.5 147.5L321 149L321.5 151L323.5 153.5L324.5 155H323L321.5 154.5L320.5 153.5L319 152.5H316.5L311.5 154.5L310.5 156L309 156.5L308 158L306.5 159.5L305 160.5H303L302 161.5L301 163.5L301.5 165L302 165.5V167.5L302.5 168L301 169.5V171H301.5V171.5L299 174L298 174.5L296.5 175.5V177L296 178L297 178.5L298 179.5V180.5L297.5 181V182L295.5 186L294 187.5L293.5 189L292.5 191L292 192.5V193.5L291 194.5L290 194L289 193L288 193.5L287.5 193L286.5 192.5L285.5 193H284L283 192L282.5 193L283 194V195L283.5 196V197.5L283 198.5V200L282.5 201L283 203.5L282 205L281.5 204.5L280.5 204L280 205L280.5 205.5L280 206.5V207.5L279.5 208.5L280 210L280.5 211L281 211.5V213.5L280 214L279.5 215L278.5 216L278 217L277 216.5L276.5 215.5L275.5 214.5V216.5H274.5V219.5L274 220L274.5 220.5V222.5L275 223V224H275.5L274.5 225H274L273.5 224H273L272.5 223H271.5L270.5 223.5V224.5L270 225V226L269.5 226.5L270 227.5L271 228.5L271.5 229.5V231.5L273.5 232.5L274 233.5L275.5 235.5L277 236L276.5 237.5L277 238.5L278.5 239.5L279.5 240L280 239.5L281 239H282L283 239.5V240.5H284L286 241L286.5 242.5V244L287.5 244.5L288.5 245.5L290 246.5L289.5 247L288.5 246.5L287.5 245.5L286 245V246L287 247L288.5 248L288 249L286.5 248.5L286 247.5L284 246.5L284.5 248L285.5 249L286 251L289 252.5V251L289.5 249H290.5L290 252L290.5 253L292 254V255.5L292.5 256.5L293.5 258L294 259L293.5 260L294.5 261V263H295V265H295.5V268L296 268.5V271L295 273L294.5 274.5L294 276.5V277.5L292 281.5L292.5 283.5L292 285.5L292.5 286L294.5 284L295 284.5V285L294.5 285.5L294 286.5L294.5 287L295 286.5H296L296.5 285.5L297 286L297.5 287.5L299 288L299.5 288.5L301 287.5V286L302 286.5V288L302.5 288.5L303 287.5H303.5L304 288L304.5 289H306.5L307.5 287L308 285.5L309.5 283.5L310.5 283L311 281.5L312 282.5L315 281L314.5 280L314 279.5V278.5H315L315.5 279.5L316 280H317L317.5 279.5H318L318.5 279L319.5 278.5L320.5 277.5V276.5L321 275.5L321.5 274V273L321 272V269.5L322 270L323 271.5L324.5 274Z\" stroke=\"#BB004F\" stroke-width=\"2\"/>\n</g>\n<g id=\"Lat_Long\">\n<line id=\"Line 1\" x1=\"165.5\" x2=\"165.5\" y2=\"400\" stroke=\"orange\" stroke-dasharray=\"5 5\" stroke-width=\"1.5\"/>\n<path id=\"Line 2\" d=\"M-38 200.5H362\" stroke=\"orange\" stroke-dasharray=\"5 5\" stroke-width=\"1.5\"/>\n</g>\n</g>\n<text style=\"font-size:10; fill:#838383;\"  x=\"23\" y=\"110\">Indo-Pak\n<tspan x=\"20\" y=\"120\">(3323 km)</tspan>\n<tspan x=\"7\" y=\"25\">Indo-Afghanistan</tspan>\n<tspan x=\"17\" y=\"35\">(106 km)</tspan>\n<tspan x=\"140\" y=\"25\">Indo-China</tspan>\n<tspan x=\"140\" y=\"35\">(3488 km)</tspan>\n<tspan x=\"172\" y=\"110\">Indo-Nepal</tspan>\n<tspan x=\"173\" y=\"120\">(1751 km)</tspan>\n<tspan x=\"230\" y=\"125\">Indo-Bhutan</tspan>\n<tspan x=\"235\" y=\"135\">(699 km)</tspan>\n<tspan x=\"225\" y=\"230\">Indo-</tspan>\n<tspan x=\"212\" y=\"240\">Bangladesh</tspan>\n<tspan x=\"210\" y=\"250\">(4096.7 km)</tspan>\n<tspan x=\"295\" y=\"210\">Indo-</tspan>\n<tspan x=\"285\" y=\"220\">Myanmar</tspan>\n<tspan x=\"283\" y=\"230\">(1643 km)</tspan>\n<tspan x=\"26\" y=\"300\">Coastline</tspan>\n<tspan x=\"20\" y=\"310\">(7516.6 km)</tspan>\n</text>\n\n<text style=\"font-size:10; fill:orange\"  x=\"105\" y=\"198\">Tropic of\n<tspan x=\"80\" y=\"210\">Cancer (23°30' E)</tspan>\n<tspan x=\"134\" y=\"80\">Standerd Meridian</tspan>\n<tspan x=\"134\" y=\"90\">of India (82°30' E)</tspan>\n</text>\n</svg> Which country shares longest border with India?",
+      "options": [
+        "Pakistan",
+        "China",
+        "Bangladesh",
+        "Nepal"
+      ],
+      "answer": 3,
+      "desc": "Indo-Bangladesh (4096.7 km)"
+    },
+
+{
+      "question": "How many countries share land border with India?",
+      "options": [
+        "4",
+        "5",
+        "7",
+        "8"
+      ],
+      "answer": 3,
+      "desc": "Pakistan, Afghanistan, Bangladesh, China, Nepal, Myanmar and Bhutan"
+    }, 
+
+{
+      "question": "India-Pakistan border is known as :",
+      "options": [
+        "McMohan Line",
+        "Durand Line",
+        "Rippon Line",
+        "Radcliffe Line"
+      ],
+      "answer": 4,
+      "desc": "On 17 August 1947, the borderline that separated India from Pakistan, known as the Radcliffe Line. It was named after the chairman of the Border Commission, Sir Cyril Radcliffe."
+    },
+
+{
+      "question": "India-China border is known as :",
+      "options": [
+        "McMohan Line",
+        "Durand Line",
+        "Rippon Line",
+        "Radcliffe Line"
+      ],
+      "answer": 1,
+      "desc": "McMahon Line is the effective boundary between China and India and the line is named after Sir Henry McMahon (1914)."
+    },
+
+{
+      "question": "In which year McMohan line was put in effect?",
+      "options": [
+        "1904",
+        "1914",
+        "1924",
+        "1934"
+      ],
+      "answer": 2
+    },
+
+{
+      "question": "Which line seperates the Pakistan and Afghanistan?",
+      "options": [
+        "McMohan Line",
+        "Durand Line",
+        "Marginal Line",
+        "Radcliffe Line"
+      ],
+      "answer": 2,
+      "desc": "It was established in 1893 as the border between British India and the Emirate of Afghanistan. It is named for Sir Henry Mortimer Durand."
+    },
+
+{
+      "question": "How many States share their boundary with Nepal?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": 4,
+      "desc": "Uttarakhand, Uttar Pradesh, Bihar, WestBengal and Sikkim"
+    },
+
+{
+      "question": "Which of the following States does not have a boundary with Pakistan?",
+      "options": [
+        "Punjab",
+        "Rajasthan",
+        "Gujrat",
+        "Haryana"
+      ],
+      "answer": 4
+    },
+
+{
+      "question": "Which of the following States has a boundary with Myanmar as well as Bangladesh?",
+      "options": [
+        "Tripura",
+        "Nagaland",
+        "Manipur",
+        "Mizoram"
+      ],
+      "answer": 4
+    },
+
+
+{
+      "question": "Which state has the longest coastline in India?",
+      "options": [
+        "Tamil Nadu",
+        "Andhra Pradesh",
+        "Goa",
+        "Gujrat"
+      ],
+      "answer": 4,
+      "desc": "Gujarat coastline = 1214.7 km , which is approximately 23% of the country’s total mainland coastline"
+    },
+
+{
+      "question": "Which southern State has the shortest coastline?",
+      "options": [
+        "Kerala",
+        "Karnataka",
+        "Tamil Nadu",
+        "Andhra Pradesh"
+      ],
+      "answer": 2
+    },
+
+{
+      "question": "How many States in India have a coastline?",
+      "options": [
+        "Seven",
+        "Eight",
+        "Nine",
+        "Ten"
+      ],
+      "answer": 3,
+      "desc": "Nine Coastal States of India : Gujarat, Maharashtra, Goa, Karnataka, Kerala, Tamil Nadu, Andhra Pradesh, Odisha, West Bengal"
+    },
+
+{
+      "question": "Which of the following States has the longest international border?",
+      "options": [
+        "West Bengal",
+        "Rajasthan",
+        "Gujarat",
+        "Arunachal Pradesh"
+      ],
+      "answer": 1
+    },
+
+{
+      "question": "Which of these States is surrounded on three sides with Bangladesh?",
+      "options": [
+        "Tripura",
+        "Mizoram",
+        "Nagaland",
+        "Manipur"
+      ],
+      "answer": 1
+    },
+
+{
+      "question": "What is the total length of India-Pakistan border",
+      "options": [
+        "3000 km",
+        "3120 Km",
+        "3223 Km",
+        "3323 Km"
+      ],
+      "answer": 4,
+      "desc": "The total length of India-Pakistan border is 3,323 kilometres."
+    },
+
+{
+      "question": "Who drew up the borders for newly independent Pakistan?",
+      "options": [
+        "Lord Mountbatten",
+        "Sir Cyril Radcliffe",
+        "Clement Atlee",
+        "None of the above"
+      ],
+      "answer": 2
+    },
+
+{
+      "question": "Which state of India share longest border with Pakistan?",
+      "options": [
+        "Jammu and Kashmir",
+        "Rajasthan",
+        "Gujarat",
+        "Punjab"
+      ],
+      "answer": 1,
+      "desc": "Jammu and Kashmir = 1222 km, Rajasthan = 1170 km, Gujarat = 506 km, Punjab = 425 km."
+    },
+
+{
+      "question": "When borders of Pakistan were drawn?",
+      "options": [
+        "14 August, 1947",
+        "15 August, 1947",
+        "16 August, 1947",
+        "17 August, 1947"
+      ],
+      "answer": 4
+     },
+
+{
+      "question": "Uttarakhand, Uttar Pradesh, Bihar, West Bengal and Sikkim have common frontiers with",
+      "options": [
+        "China",
+        "Bhutan",
+        "Nepal",
+        "Myanmar"
+      ],
+      "answer": 3
+     },
+
+{
+      "question": "The standard Meridian of India is :",
+      "options": [
+        "88°30' E",
+        "86°30' E",
+        "82°30' E",
+        "84°30' E"
+      ],
+      "answer": 3
+     },
+
+{
+      "question": "The Tropic of Cancer does not pass through",
+      "options": [
+        "Rajasthan",
+        "Orissa (Now Odisha)",
+        "Chhattisgarh",
+        "Tripura"
+      ],
+      "answer": 2
+     },
+
+{
+      "question": "Which line divides India into approximately two equal parts?",
+      "options": [
+        "Equator",
+        "Tropic of Cancer",
+        "Tropic of Capricorn",
+        "None of these"
+      ],
+      "answer": 2
+     },
+
+{
+      "question": "The Tropic of Cancer passes through how many states in India?",
+      "options": [
+        "7",
+        "9",
+        "8",
+        "6"
+      ],
+      "answer": 3,
+      "desc": "The Tropic of Cancer passes through these 8 states in India: Gujarat, Rajasthan, Madhya Pradesh, Chhattisgarh, Jharkhand, West Bengal, Tripura, and Mizoram."
+     },
+
+{
+      "question": "The Standard Meridian passes through how many states in India?",
+      "options": [
+        "7",
+        "5",
+        "8",
+        "6"
+      ],
+      "answer": 2,
+      "desc": "The Standard Meridian passes through these 5 states in India: Uttar Pradesh, Madhya Pradesh, Chhattisgarh, Odisha and Andhra Pradesh."
+     },
+
+{
+      "question": "Which meridian is fixed as a Standard Meridian of India?",
+      "options": [
+        "82½° E",
+        "84½° E",
+        "86° E",
+        "81° E"
+      ],
+      "answer": 1
+     },
+
+{
+      "question": "Tropic of Cancer passes through which of these states",
+      "options": [
+        "Orissa",
+        "Tripura",
+        "Bihar",
+        "Punjab"
+      ],
+      "answer": 2
+     },
+
+{
+      "question": "Which of the following longitudes is selected as the Standard Meridian for India?",
+      "options": [
+        "68°7′E",
+        "82°30′E",
+        "97°25′E",
+        "23°30′N"
+      ],
+      "answer": 2
+     },
+
+{
+      "question": "Which of the following divides India and Srilanka?",
+      "options": [
+        "Palk strait",
+        "Malacca Strait",
+        "Cook strait",
+        "Mesina strait"
+      ],
+      "answer": 1
+     },
+
+{
+      "question": "The local time of 82°30' E longitude is taken as a standard throughout India. It is known as",
+      "options": [
+        "local time of India",
+        "Indian Standard Time (1ST)",
+        "both (a) and (b)",
+        "none of these"
+      ],
+      "answer": 2
+     },
+
+{
+      "question": "Bhutan is surrounded by which of the following Indian States?",
+      "options": [
+        "Assam Arunachal Pradesh West Bengal Sikkim",
+        "Assam Mizoram West Bengal Bihar",
+        "Arunachal Pradesh Meghalaya West Bengal Bihar",
+        "Arunachal Pradesh Sikkim Bihar Meghalaya"
+      ],
+      "answer": 1
+     },
+
+{
+      "question": "The Tropic of Cancer passes through the States of: ,1. Gujarat ,2. Jharkhand ,3. Assam ,4. Mizoram",
+      "options": [
+        "1 2 and 4",
+        "1 and 2",
+        "1 3 and 4",
+        "1 2 3 and 4"
+      ],
+      "answer": 1
+     },
+
+{
+      "question": "Among the following cities, which one is nearest to the Tropic of Cancer?",
+      "options": [
+        "Delhi",
+        "Kolkata",
+        "Jodhpur",
+        "Nagpur"
+      ],
+      "answer": 2,
+      "desc": "Kolkata one is nearest to the Tropic of Cancer. Distance between Kolkata, India and the Tropic of Cancer, 97 km = 61 miles."
+     },
+
+{
+      "question": "Through which one of the following Indian states the Tropic of Cancer does not pass?",
+      "options": [
+        "Manipur",
+        "Tripura",
+        "Gujarat",
+        "Rajasthan"
+      ],
+      "answer": 1,
+      "desc": "Tropic of cancer does not pass through Manipur. The tropic of cancer passes through 8 Indian states. They are Gujarat, Rajasthan, Madhya Pradesh, Chhattisgarh, West Bengal, Jharkhand, Tripura, and Mizoram."
+     },
+
+{
+      "question": "Which of the following latitudes passes through India?",
+      "options": [
+        "Equator",
+        "Arctic Circle",
+        "Tropic of Capricorn",
+        "Tropic of Cancer"
+      ],
+      "answer": 4,
+      "desc": "Tropic of Cancer latitudes passes through India. The Tropic of Cancer divides India into almost two equal parts by passing through 8 states, Gujarat, Rajasthan, Madhya Pradesh, Chhattisgarh, Jharkhand, West Bengal, Tripura & Mizoram."
+     }, 
+
+{
+      "question": "Indian Standard Time is ahead of Greenwich Mean Time by",
+      "options": [
+        "5.30 hours",
+        "4.30 hours",
+        "4 hours",
+        "5 hours"
+      ],
+      "answer": 1
+     }
+   ]
 }
